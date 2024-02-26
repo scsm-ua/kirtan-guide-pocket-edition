@@ -1,0 +1,14 @@
+{
+    "name": "kirtan-guide-pocket-edition",
+    "version": "1.0.0",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/scsm-ua/kirtan-guide-pocket-edition.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/scsm-ua/kirtan-guide-pocket-edition/issues"
+    },
+    "homepage": "https://github.com/scsm-ua/kirtan-guide-pocket-edition#readme"
+  }
