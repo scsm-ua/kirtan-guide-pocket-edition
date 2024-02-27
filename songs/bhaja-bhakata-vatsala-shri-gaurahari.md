@@ -4,19 +4,23 @@
 
 #### 1
 
-    bhaja bhakata-vatsala śrī-gaurahari śrī-gaurahari sohi goṣṭha-vihārī nanda-yaśomatī-chita-hārī
+    bhaja bhakata-vatsala śrī-gaurahari
+    śrī-gaurahari sohi goṣṭha-vihārī
+    nanda-yaśomatī-chita-hārī
 
 Serve Śrī Gaurahari, who is most affectionate to His devotees. He is the rambler in the fields (of Vraja), the stealer of Nanda and Yaśodā’s hearts.
 
 #### 2
 
-    “belā ha’lo, dāmodara, āisa ekhana bhoga-mandire vasi’ karaha bhojana”
+    “belā ha’lo, dāmodara, āisa ekhana
+    bhoga-mandire vasi’ karaha bhojana”
 
 “It’s time! Damodar! Come now! Sit down in the dining hall and eat.”
 
 #### 3
 
-    nandera nirdeśe vaise giri-vara-dhārī baladeva-saha sakhā vaise sāri sāri
+    nandera nirdeśe vaise giri-vara-dhārī
+    baladeva-saha sakhā vaise sāri sāri
 
 At Nanda’s request, Kṛṣṇa, Baladev, and Their friends sit down in lines.
 
@@ -36,25 +40,29 @@ Moong dāl patties, urad dāl patties, chapātīs, rice with ghee, rice and sesa
 
 #### 6
 
-    karpūra amṛta-kelī rambhā kṣīra-sāra amṛta rasālā, amla dvādaśa prakāra
+    karpūra amṛta-kelī rambhā kṣīra-sāra
+    amṛta rasālā, amla dvādaśa prakāra
 
 Hot milk flavoured with camphor, plantains, butter, twelve kinds of sweet, juicy, and sour preparations …
 
 #### 7
 
-    luchi chini sarapurī lāḍḍu rasāvalī bhojana karena kṛṣṇa ha’ye kutūhalī
+    luchi chini sarapurī lāḍḍu rasāvalī
+    bhojana karena kṛṣṇa ha’ye kutūhalī
 
 Sweet purīs, purīs filled with cream, sweet balls, dāl patties boiled with sugared rice—Kṛṣṇa eagerly eats all these preparations.
 
 #### 8
 
-    rādhikāra pakka anna vividha vyañjana parama ānande kṛṣṇa karena bhojana
+    rādhikāra pakka anna vividha vyañjana
+    parama ānande kṛṣṇa karena bhojana
 
 With great joy Kṛṣṇa eats various vegetable preparations cooked by Rādhikā.
 
 #### 9
 
-    chhale-bale lāḍḍu khāy śrī-madhumaṅgala bagala bājāy āra deya haribolo
+    chhale-bale lāḍḍu khāy śrī-madhumaṅgala
+    bagala bājāy āra deya haribolo
 
 By hook or by crook, Madhumaṅgal eats the sweet balls. He slaps his armpits and calls out, ‘Haribol!’
 
@@ -88,7 +96,8 @@ Jambula and Rasāla bring spiced pān. Kṛṣṇa chews it and then happily goe
 
 #### 14
 
-    viśālākṣa śikhi-puchchha chāmara ḍhulāya apūrva śayāya kṛṣṇa sukhe nidrā yāya
+    viśālākṣa śikhi-puchchha chāmara ḍhulāya
+    apūrva śayāya kṛṣṇa sukhe nidrā yāya
 
 Viśālākṣa fans Kṛṣṇa with a peacock fan, and Kṛṣṇa happily sleeps on a comfortable bed.
 
@@ -108,13 +117,18 @@ Lalitā Devī and her friends then receive Rādhā’s remnants and joyfully sin
 
 #### 17
 
-    hari-līlā eka-mātra yāhāra pramoda bhogārati gāy ṭhākur bhakativinoda
+    hari-līlā eka-mātra yāhāra pramoda
+    bhogārati gāy ṭhākur bhakativinoda
 
 Ṭhākur Bhakti Vinod, whose sole joy is the Lord’s Pastimes, sings this bhog ārati.
 
-    (bhaja govinda govinda gopāla) (giridhārī gopīnātha nanda-dulāla) (bhaja govinda govinda gopāla) (nanda-dulāla jaya jaya śachī-dulāla) (śachī-dulāla jaya jaya gaura gopāla)
+    (bhaja govinda govinda gopāla)
+    (giridhārī gopīnātha nanda-dulāla)
+    (bhaja govinda govinda gopāla)
+    (nanda-dulāla jaya jaya śachī-dulāla)
+    (śachī-dulāla jaya jaya gaura gopāla)
 
 Serve Govinda, serve Gopāl. Serve Giridhārī, Gopīnāth, Nanda Dulāl. Serve Govinda, serve Gopāl. All glory to Nanda’s son! All glory to Śachī’s son! All glory to golden Gopāl!
 
 
-> page = 
+> page = 19

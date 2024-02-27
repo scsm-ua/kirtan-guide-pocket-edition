@@ -1,4 +1,6 @@
-# Aruṇodoya-kīrtan, Part 2
+# Aruṇodoya-kīrtan
+
+## Part 2
 
 ### By Śrīla Bhakti Vinod Ṭhākur
 
@@ -10,13 +12,15 @@
 Śrī Gorāchā̐d calls, “O souls, awake! O souls, awake! How long will you sleep in the clutches of the witch Māyā?
 
     (ār kata kāl ghumāibe?)
-    (māyā-piśāchīra kole ār kata kāl ghumāibe?) (uṭha jīva, kṛṣṇa bhaja ār kata kāl ghumāibe?)
+    (māyā-piśāchīra kole ār kata kāl ghumāibe?)
+    (uṭha jīva, kṛṣṇa bhaja ār kata kāl ghumāibe?)
 
 "How much longer will you sleep? How much longer will you sleep in the lap of the witch Māyā? Arise soul! Serve Kṛṣṇa! How much longer will you sleep?
 
 #### 2
 
-    bhajiba baliyā ese saṁsāra-bhitare bhuliyā rahile tumi avidyāra bhare
+    bhajiba baliyā ese saṁsāra-bhitare
+    bhuliyā rahile tumi avidyāra bhare
 
 “You came into this world saying, ‘O Lord, I will serve You’, but, having forgotten this promise, you have remained in ignorance.
 
@@ -51,9 +55,10 @@
 
 #### 5
 
-    bhakativinoda prabhura-charaṇe paḍiyā sei hari-nāma-mantra la-ila māgiyā
+    bhakativinoda prabhura-charaṇe paḍiyā
+    sei hari-nāma-mantra la-ila māgiyā
 
 Bhakti Vinod falls at the Lord’s feet, prays for the Hari-nām mahāmantra, and takes it.
 
 
-> page = 
+> page = 32

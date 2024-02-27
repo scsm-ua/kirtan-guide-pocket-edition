@@ -5,7 +5,7 @@
 
 ### Ārati
 
-- [Śrī Guru Ārati (jaya jaya gurudever)](songs/jaya-jaya-gurudever-arati-ujjvala.md)
+- [Śrī Guru Ārati](songs/jaya-jaya-gurudever-arati-ujjvala.md)
 - [Śrī Guru Ārati Stuti](songs/jaya-guru-maharaja-jati-rajeshvara.md)
 - [Maṅgal Ārati](songs/kali-kukkura-kadana-jadi-chao-he.md)
 - [Śrī Nām-kīrtan](songs/jashomati-nandana-vraja-vara-nagara.md)

@@ -4,13 +4,15 @@
 
 #### 1
 
-    jayare jayare jaya gaura-sarasvatī bhakativinodānvaya karuṇā murati
+    jayare jayare jaya gaura-sarasvatī
+    bhakativinodānvaya karuṇā murati
 
 All glory to the voice of Śrī Gaurāṅga, the embodiment of Śrīla Bhakti Vinod Ṭhākur’s mercy, Śrīla Bhakti Siddhānta Saraswatī Ṭhākur!
 
 #### 2
 
-    prakāśile gaura-sevā bhūvana maṅgala bhakati-siddhānta śuddha prajñāna ujjvala
+    prakāśile gaura-sevā bhūvana maṅgala
+    bhakati-siddhānta śuddha prajñāna ujjvala
 
 He manifested Śrī Gaurāṅga’s service for the upliftment of the world. His teaching of devotion is pure, brilliant, and enlightening.
 
@@ -23,44 +25,50 @@ All glory to the combined form of Śrī Śrī Rādhā-Śyām, Śrī Gaura Rāy, 
 
 #### 4
 
-    vraja-rasa nava-bhāve navadvīpe rāje udāre madhura rāga abhinava sāje
+    vraja-rasa nava-bhāve navadvīpe rāje
+    udāre madhura rāga abhinava sāje
 
 Vraja’s rasa manifests in a new way in Nabadwīp: madhurarasa dresses newly in benevolence.
 
 #### 5
 
-    mādhurya kaivalya rāga vrajera niryāsa prāpti parākāṣṭhā tāhe gaurāṅga vilāsa
+    mādhurya kaivalya rāga vrajera niryāsa
+    prāpti parākāṣṭhā tāhe gaurāṅga vilāsa
 
-Sweet divine love, Vraja’s essence, reaches its climax in
-Śrī Gaurāṅga’s Pastimes.
+Sweet divine love, Vraja’s essence, reaches its climax in Śrī Gaurāṅga’s Pastimes.
 
 #### 6
 
-    rādhā bhāva-kānti aṅgikari’ bhāla mate dakṣiṇe āsana rasa garimā dekhāte
+    rādhā bhāva-kānti aṅgikari’ bhāla mate
+    dakṣiṇe āsana rasa garimā dekhāte
 
 Śrī Gaurāṅga earnestly embraces Śrī Rādhā’s heart and halo, and takes His place on the right to show His rasa’s glory.
 
 #### 7
 
-    rādhā-rasa-traya-svāda rahasya prayāsa nirakhi praphulla rādhā mukhe manda hāsa
+    rādhā-rasa-traya-svāda rahasya prayāsa
+    nirakhi praphulla rādhā mukhe manda hāsa
 
 Seeing Kṛṣṇa’s secret endeavour to taste Her threefold rasa, Rādhā is fulfilled and smiles gently.
 
 #### 8
 
-    madhye rahi’ vaṁśī-rave ghoṣe vaṁśī-dhara rādhāra sampade āmi gaurāṅga-sundara!
+    madhye rahi’ vaṁśī-rave ghoṣe vaṁśī-dhara
+    rādhāra sampade āmi gaurāṅga-sundara!
 
 Remaining in the middle, the flute player declares with the song of His flute, “With Rādhā’s wealth, I am Gaurāṅgasundar!”
 
 #### 9
 
-    mad abhīṣṭha rūpa rādhāra hṛdaya mandire gaurāṅga bhajile suṣṭhu sphūrti pāya tāre
+    mad abhīṣṭha rūpa rādhāra hṛdaya mandire
+    gaurāṅga bhajile suṣṭhu sphūrti pāya tāre
 
 “If you serve Gaurāṅga, My form which is cherished in the temple of Rādhā’s heart will be fully revealed to you.”
 
 #### 10
 
-    nadīyā prakāśe mahāprabhu gaura-nidhi patita-pāvana deve milāila vidhi
+    nadīyā prakāśe mahāprabhu gaura-nidhi
+    patita-pāvana deve milāila vidhi
 
 Gaurāṅga Mahāprabhu appeared in Nadia, and Providence combined the saviour of the fallen (the Kali-yuga-avatār) within Him.
 
@@ -80,9 +88,10 @@ Devotees see this ārati by the mercy of Śrī Svarūp Dāmodar, Śrī Rāmanand
 
 #### 13
 
-    jaya guru-gaura-rādhā-govinda-sundara jaya dāo bhakta vṛnda nitya nirantara
+    jaya guru-gaura-rādhā-govinda-sundara
+    jaya dāo bhakta vṛnda nitya nirantara
 
 All glory to Śrī Guru, Gaurāṅga, and Rādhā-Govindasundar! O devotees, glorify them always and forever!
 
 
-> page = 
+> page = 25

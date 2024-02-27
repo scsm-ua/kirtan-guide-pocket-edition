@@ -4,14 +4,16 @@
 
 #### 1
 
-    namo namaḥ tulasī mahārāṇī vṛnde mahārāṇī namo namaḥ
+    namo namaḥ tulasī mahārāṇī
+    vṛnde mahārāṇī namo namaḥ
     namo re namo re mā̐iyā namo nārāyaṇī
 
 O Tulasī Mahārāṇī, O Vṛndā Devī, I offer my obeisance unto you again and again. O Nārāyaṇī, I offer my obeisance unto you again and again.
 
 #### 2
 
-    yā̐ko daraśe paraśe agha-nāśa hoi mahimā veda-purāṇe vākhāni
+    yā̐ko daraśe paraśe agha-nāśa hoi
+    mahimā veda-purāṇe vākhāni
 
 By seeing or touching you, all sins are destroyed. Your glories are sung in the Vedas and Purāṇas.
 
@@ -31,13 +33,15 @@ O fortunate Tulasī, by your performance of austerity you have become Śrī Śā
 
 #### 5
 
-    dhūpa, dīpa, naivedya, ārati phulanā kiye varakhā varakhāni
+    dhūpa, dīpa, naivedya, ārati
+    phulanā kiye varakhā varakhāni
 
 You shower mercy upon one who offers you incense, lamps, foods, worship, and flowers.
 
 #### 6
 
-    chhāppānna bhoga, chhatriśa vyañjana vinā tulasī prabhu eka nāhi māni
+    chhāppānna bhoga, chhatriśa vyañjana
+    vinā tulasī prabhu eka nāhi māni
 
 The Lord does not accept even one of fifty-six grain offerings or thirty-six vegetable offerings without tulasī leaves.
 
@@ -50,9 +54,10 @@ The Lord does not accept even one of fifty-six grain offerings or thirty-six veg
 
 #### 8
 
-    chandraśekhara māiyā, terā yaśa gāoye bhakati dāna dījiye mahārāṇī
+    chandraśekhara māiyā, terā yaśa gāoye
+    bhakati dāna dījiye mahārāṇī
 
 O Tulasī Mahārāṇī, Chandraśekhar sings your glories. Give him the gift of devotion.
 
 
-> page = 
+> page = 36
