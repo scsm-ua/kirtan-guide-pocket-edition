@@ -1,10 +1,11 @@
 # Kirtan Guide
 
-Pocket Edition, Śrī Chaitanya Sāraswat Maṭh
+Pocket Edition
 
-©2013 Sri Chaitanya Saraswat Math
+©2013 Śrī Chaitanya Sāraswat Maṭh
 
-**All rights reserved by:** The Current President-Acharya of Sri Chaitanya Saraswat Math
+**All rights reserved by:** 
+ * The Current President-Acharya of Sri Chaitanya Saraswat Math
 
 **Published by:**
 
@@ -12,11 +13,14 @@ Pocket Edition, Śrī Chaitanya Sāraswat Maṭh
     Kolerganj, Nabadwip, Nadia
     Pin 741302, W.B., India
     
-**Compiled by:** Sripad Bhakti Kamal Tyagi Maharaj
+**Compiled by:** 
+ * Sripad Bhakti Kamal Tyagi Maharaj
 
-**Senior Editor:** Sripad Mahananda Das Bhakti Ranjan
+**Senior Editor:** 
+ * Sripad Mahananda Das Bhakti Ranjan
 
-**Editor:** Sri Vishakha Devi Dasi Brahmacharini
+**Editor:** 
+ * Sri Vishakha Devi Dasi Brahmacharini
 
 **Proofreading by**
  * Sriman Sudarshan Das Adhikari
