@@ -5,7 +5,6 @@
     nagara bhramiyā āmāra gaura ela ghare gaura ela ghare āmāra nitāi ela ghare dhūlā jhāri’ śachīmātā gaura kole kare ānandete bhakta-gaṇe hari hari bale
 
 After touring the town, my Gaurāṅga came home! My Gaurāṅga and my Nitāi came home! After dusting Him off, Śachī Mātā embraces Gaurāṅga! The devotees joyfully sing “Hari! Hari!”
-ՙ
 
 #### 1
 

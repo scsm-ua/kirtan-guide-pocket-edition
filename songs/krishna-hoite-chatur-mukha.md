@@ -88,8 +88,6 @@ His dear disciple, who constantly endeavours to fulfil his desires, is Śrīla B
 
 All the Gurus in this succession are associates of Śrī
 Gaurāṅga. I pray for their remnants.
-ՙ
-
 
 
 > page = 

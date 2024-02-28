@@ -2,13 +2,16 @@
 
 ### By Śrīla Chandraśekhar Āchārya
 
-#### 1
-
     namo namaḥ tulasī mahārāṇī
     vṛnde mahārāṇī namo namaḥ
+
+O Tulasī Mahārāṇī, O Vṛndā Devī, I offer my obeisance unto you again and again.
+
+#### 1
+
     namo re namo re mā̐iyā namo nārāyaṇī
 
-O Tulasī Mahārāṇī, O Vṛndā Devī, I offer my obeisance unto you again and again. O Nārāyaṇī, I offer my obeisance unto you again and again.
+O Nārāyaṇī, I offer my obeisance unto you again and again.
 
 #### 2
 

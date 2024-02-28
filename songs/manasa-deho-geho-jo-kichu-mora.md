@@ -4,7 +4,8 @@
 
 #### 1
 
-    mānasa, deha, geha, yo kichhu mora arpilu̐ tuyā pade nanda-kiśora!
+    mānasa, deha, geha, yo kichhu mora
+    arpilu̐ tuyā pade nanda-kiśora!
 
 I have offered my mind, my body, my household, and whatever else may be mine at Your feet, O Nanda Kiśor!
 
@@ -17,13 +18,15 @@ In good times and in bad, in life and in death, all my responsibility has gone a
 
 #### 3
 
-    mārabi rākhabi—yo ichhā tohārā nitya-dāsa prati tuyā adhikārā
+    mārabi rākhabi—yo ichhā tohārā
+    nitya-dāsa prati tuyā adhikārā
 
 Kill me or protect me as You wish. You have full authority over Your eternal servant.
 
 #### 4
 
-    janmāobi maye ichhā yadi tora bhakta-gṛhe jani janma ha-u mora
+    janmāobi maye ichhā yadi tora
+    bhakta-gṛhe jani janma ha-u mora
 
 If You desire that I take birth again, let me do so in the home of Your devotee.
 
@@ -36,7 +39,8 @@ Let me be born again even as a worm, so long as I can remain Your servant. I hav
 
 #### 6
 
-    bhukti-mukti-spṛhā vihīna ye bhakta labha-ite tā̐ka saṅga anurakta
+    bhukti-mukti-spṛhā vihīna ye bhakta
+    labha-ite tā̐ka saṅga anurakta
 
 I long to attain the association of devotees who are completely free from all desire for selfish enjoyment and liberation.
 
@@ -49,9 +53,10 @@ Father, mother, lover, son, Lord, Guru, and husband—You are everything to me.
 
 #### 8
 
-    bhakati-vinoda kahe, śuna kāna! rādhā-nātha! tuhu̐ hāmāra parāṇa
+    bhakati-vinoda kahe, śuna kāna!
+    rādhā-nātha! tuhu̐ hāmāra parāṇa
 
 Bhakti Vinod says, “Please listen, O Kān! O Rādhānāth! You are my life and soul.”
 
 
-> page = 
+> page = 94

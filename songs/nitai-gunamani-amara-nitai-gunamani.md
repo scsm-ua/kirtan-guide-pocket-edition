@@ -18,21 +18,24 @@ Nitāi brought a flood of divine love to the land of Gauḍa. The devotees immer
 
 #### 3
 
-    dīna-hīna patita pāmara nāhi bāchhe brahmāra durlabha prema sabākāre yāche
+    dīna-hīna patita pāmara nāhi bāchhe
+    brahmāra durlabha prema sabākāre yāche
 
 The sinful, unfortunate, and fallen did not desire this divine love, which is difficult for even Brahmā to attain, yet Nitāi begged them to accept it.
 
 #### 4
 
-    ābaddha karuṇā-sindhu kāṭiyā muhāna ghare ghare bule prema-amiyāra vāna
+    ābaddha karuṇā-sindhu kāṭiyā muhāna
+    ghare ghare bule prema-amiyāra vāna
 
 Nitāi cut a canal into the sealed ocean of mercy and a flood of nectarean divine love spread to every home.
 
 #### 5
 
-    lochan bale hena nitāi yebā nā bhajila jāniyā śuniyā sei ātma-ghātī haila
+    lochan bale hena nitāi yebā nā bhajila
+    jāniyā śuniyā sei ātma-ghātī haila
 
 Lochan Dās says, “Anyone who did not serve Nitāi knowingly committed suicide.”
 
 
-> page = 
+> page = 66

@@ -32,9 +32,10 @@ I have constantly drunk the terrible poison of mundanity and never become immers
 
 #### 5
 
-    kena vā āchhaye prāṇa ki sukha lāgiyā narottama dāsa kena nā gela mariyā
+    kena vā āchhaye prāṇa ki sukha lāgiyā
+    narottama dāsa kena nā gela mariyā
 
 Why am I alive? For the sake of what happiness? Why has Narottam Dās not already died?
 
 
-> page = 
+> page = 83
