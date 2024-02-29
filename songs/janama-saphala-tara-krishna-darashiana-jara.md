@@ -54,7 +54,7 @@ O friend! When I saw the beauty of Kṛṣṇa’s nectarean form, I fainted and
 
 What a crown on His head! What a flute in His hand! What a threefold pose! Nectar surged from His lotus feet, which were adorned with tinkling anklets.
 
-#### 6
+#### 7
 
     sadā āśā kari    bhṛṅga-rūpa dhari
         charaṇa-kamale sthāna
