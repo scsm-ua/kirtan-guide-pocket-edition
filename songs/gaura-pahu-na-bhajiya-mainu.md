@@ -1,6 +1,6 @@
 # Gaurā Pahu̐
 
-### By Śrīla Narottam Dās Ṭhākur
+### by Śrīla Narottam Dās Ṭhākur
 
 #### 1
 

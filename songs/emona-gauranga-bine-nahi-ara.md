@@ -1,6 +1,6 @@
 # Emana Gaurāṅga vine nāhi āra
 
-### By Śrīla Premānanda Dās
+### by Śrīla Premānanda Dās
 
 #### 1
 

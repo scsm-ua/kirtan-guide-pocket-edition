@@ -1,6 +1,6 @@
 # He deva bhavantaṁ vande
 
-### By Śrīla Rūpa Goswāmī Prabhu
+### by Śrīla Rūpa Goswāmī Prabhu
 
 #### 1
 

@@ -1,6 +1,6 @@
 # Ke yābi ke yābi
 
-### By Śrīla Lochan Dās Ṭhākur
+### by Śrīla Lochan Dās Ṭhākur
 
 #### 1
 

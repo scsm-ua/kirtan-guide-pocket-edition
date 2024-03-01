@@ -1,6 +1,6 @@
 # Yadi Gaura nā ho’to
 
-### By Śrīla Vāsudev Ghoṣ
+### by Śrīla Vāsudev Ghoṣ
 
 #### 1
 

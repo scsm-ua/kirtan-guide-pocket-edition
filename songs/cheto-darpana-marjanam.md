@@ -1,6 +1,6 @@
 # Śrī Śikṣāṣṭakam
 
-### By Śrī Chaitanya Mahāprabhu
+### by Śrī Chaitanya Mahāprabhu
 
     cheto-darpaṇa-mārjanaṁ bhava-mahā-dāvāgni-nirvāpaṇaṁ
     śreyaḥ-kairava-chandrikā-vitaraṇaṁ vidyā-vadhū-jīvanam

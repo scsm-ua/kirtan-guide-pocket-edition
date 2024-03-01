@@ -1,6 +1,6 @@
 # Śrī Śrī Prabhupāda-padma Stavakaḥ
 
-### By Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
+### by Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 
 #### 1
 

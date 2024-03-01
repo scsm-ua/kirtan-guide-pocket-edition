@@ -1,6 +1,6 @@
 # Śrī Daśāvatār Stotram
 
-### By Śrīla Jayadev Goswāmī
+### by Śrīla Jayadev Goswāmī
 
 #### 1
 

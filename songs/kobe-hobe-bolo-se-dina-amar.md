@@ -1,6 +1,6 @@
 # Kabe ha’be bala
 
-### By Śrīla Bhakti Vinod Ṭhākur
+### by Śrīla Bhakti Vinod Ṭhākur
 
 #### 1
 

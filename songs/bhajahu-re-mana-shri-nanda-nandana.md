@@ -1,6 +1,6 @@
 # Bhajahu̐ Re Mana
 
-### By Śrīla Govinda Dās Kavirāj
+### by Śrīla Govinda Dās Kavirāj
 
 #### 1
 

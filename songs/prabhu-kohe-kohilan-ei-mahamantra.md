@@ -1,6 +1,6 @@
 # Hare Kṛṣṇa mahāmantra
 
-### By Śrīla Vṛndāvan Dās Ṭhākur
+### by Śrīla Vṛndāvan Dās Ṭhākur
 
     hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare
     hare rāma hare rāma rāma rāma hare hare

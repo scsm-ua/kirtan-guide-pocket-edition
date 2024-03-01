@@ -1,6 +1,6 @@
 # Śrī Śrī Gurvāṣṭakam
 
-### By Śrīla Viśvanāth Chakravartī Ṭhākur
+### by Śrīla Viśvanāth Chakravartī Ṭhākur
 
 #### 1
 

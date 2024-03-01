@@ -1,6 +1,6 @@
 # After parikramā
 
-### By Śrīla Rūpa Goswāmī Prabhu
+### by Śrīla Rūpa Goswāmī Prabhu
 
     nagara bhramiyā āmāra gaura ela ghare
     gaura ela ghare āmāra nitāi ela ghare

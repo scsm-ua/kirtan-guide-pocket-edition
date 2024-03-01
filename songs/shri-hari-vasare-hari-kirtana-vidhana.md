@@ -1,6 +1,6 @@
 # Śrī Harivāsar Gīti
 
-### By Śrīla Vṛndāvan Dās Ṭhākur
+### by Śrīla Vṛndāvan Dās Ṭhākur
 
 #### 1
 

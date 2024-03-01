@@ -1,6 +1,6 @@
 # Śrī Guru Ārati
 
-### By Śrīpād B. A. Paramahaṁsa Mahārāj
+### by Śrīpād B. A. Paramahaṁsa Mahārāj
 
 #### 1
 
