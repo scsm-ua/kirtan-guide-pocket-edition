@@ -51,7 +51,7 @@ The Lord does not accept even one of fifty-six grain offerings or thirty-six veg
 #### 7
 
     śiva śuka nārada ā-ura brahmādika
-    ḍh.ḍata phirata mahā-muni jñānī
+    ḍhu̐ḍata phirata mahā-muni jñānī
 
 Śiva, Śukadev, Nārad, Brahmā, the other demigods, and the great learned sages all circumambulate you.
 
