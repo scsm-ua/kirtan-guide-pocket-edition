@@ -55,4 +55,7 @@ O Govinda, in separation from You, a moment feels like an age, tears pour from m
 That debauchee may tightly embrace this maidservant, or He may leave me and break my heart. He may do as He likes, but He alone is the Lord of my heart.
 
 
+[Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/siksastakam-sanskrit-verses?in=bhakti-lalita-devi/sets/siksastakam)
+
+
 > page = 128
