@@ -3,6 +3,8 @@
     "subtitle": "Pocket Edition, 2013",
     "slug": "en-pe",
     "i18n": {
+        "Books": "Books",
+        "Search": "Search",
         "Share song": "Share song",
         "Share": "Share",
         "Copy page address": "Copy page address",
