@@ -1,7 +1,7 @@
 
 ### Contents
 
-- [Jay Dhvani](songs/jaya-shiachinandana-sura-muni-vandana.md)
+- [Jay Dhvani](songs/jaya-sa-parikara.md)
 
 ### Ārati
 
@@ -9,7 +9,7 @@
 - [Śrī Guru Ārati Stuti](songs/jaya-guru-maharaja-jati-rajeshvara.md)
 - [Maṅgal Ārati](songs/kali-kukkura-kadana-jadi-chao-he.md)
 - [Śrī Nām-kīrtan](songs/jashomati-nandana-vraja-vara-nagara.md)
-- [Śrī Śachīnandana-vandanā](songs/jaya-sa-parikara.md)
+- [Śrī Śachīnandana-vandanā](songs/jaya-shiachinandana-sura-muni-vandana.md)
 - [Śrī Bhoga Ārati Gīti](songs/bhaja-bhakata-vatsala-shri-gaurahari.md)
 - [Śrī Gaura Ārati](songs/jaya-jaya-gaurachander-arotiko-shobha.md)
 - [Śrī Sāraswat Ārati](songs/jayare-jayare-jaya-gaura-sarasvati.md)
