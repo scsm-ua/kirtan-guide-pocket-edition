@@ -104,7 +104,16 @@
 ### Songs by Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 
 - [Śrī Śrī Prabhupāda-padma Stavakaḥ](songs/sujanarvuda-radhita-pada-yugam.md)
-- [Śrī Śrī Prema-dhāma-deva Stotram](songs/deva-siddha-mukta-yukta-bhakta-vrinda.md)
+
+### Śrī Śrī Prema-dhāma-deva Stotram
+
+- [1-10. Saturday](songs/deva-siddha-mukta-yukta-bhakta-vrinda.md)
+- [11-20. Sunday](songs/sutra-vritti-tippanishta-sukshma-vachanadbhutam.md)
+- [21-30. Monday](songs/dhvasta-sarvvabhauma-vada-navya-tarka-shiankaram.md)
+- [31-40. Tuesday](songs/prema-mugdha-rudra-raja-shiaurya-virya-vikramam.md)
+- [41-50. Wednesday](songs/prema-mugdha-nritya-kirtanakularitantikam.md)
+- [51-60. Thursday](songs/shri-sanatananu-rupa-jiva-sampradayakam.md)
+- [61-72. Friday](songs/yamunambu-krishna-radhikali-keli-mandalam.md)
 
 ### Holy Days
 
