@@ -1,3 +1,7 @@
+---
+no-author: 1
+---
+
 # Vandanā
 
     vande ’haṁ śrī-guroḥ śrī-yuta-pada-kamalaṁ

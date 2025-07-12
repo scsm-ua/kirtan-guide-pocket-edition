@@ -1,3 +1,7 @@
+---
+no-author: 1
+---
+
 # Jay Dhvani
 
     Jay Saparikar Śrī Śrī Guru Gaurāṅga Gāndharvā Govindasundar Jīu kī jay!
