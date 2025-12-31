@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 144,
+    "first_line": "śrī-sanātanānu-rūpa-jīva-sampradāyakaṁ"
+  },
   "title": [
     "Śrī Śrī Prema-dhāma-deva Stotram"
   ],
@@ -99,8 +103,5 @@
         "prema-dhāma-devam eva naumi gaura-sundaram"
       ]
     }
-  ],
-  "attributes": {
-    "page": "144"
-  }
+  ]
 }

@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 143,
+    "first_line": "prema-mugdha-nṛtya-kīrtanākulāriṭāntikaṁ"
+  },
   "title": [
     "Śrī Śrī Prema-dhāma-deva Stotram"
   ],
@@ -99,8 +103,5 @@
         "prema-dhāma-devam eva naumi gaura-sundaram"
       ]
     }
-  ],
-  "attributes": {
-    "page": "143"
-  }
+  ]
 }

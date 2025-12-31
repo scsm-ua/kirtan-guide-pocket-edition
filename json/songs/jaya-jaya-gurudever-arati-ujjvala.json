@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 8,
+    "first_line": "jaya jaya gurudever"
+  },
   "title": [
     "Śrī Guru Ārati"
   ],
@@ -166,8 +170,5 @@
         "Be merciful, O lord, manifestation of Śrī Gaurāṅga! This fallen servant always worships you."
       ]
     }
-  ],
-  "attributes": {
-    "page": "8"
-  }
+  ]
 }

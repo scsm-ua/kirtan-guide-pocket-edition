@@ -1,6 +1,8 @@
 {
   "meta": {
-    "no-author": 1
+    "page": 5,
+    "no-author": 1,
+    "first_line": "jaya saparikar"
   },
   "title": [
     "Jay Dhvani"
@@ -81,8 +83,5 @@
         "Nitāi Gaura Premānande! Haribol!"
       ]
     }
-  ],
-  "attributes": {
-    "page": "5"
-  }
+  ]
 }

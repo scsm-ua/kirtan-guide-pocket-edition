@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 94,
+    "first_line": "mānasa, deha, geha"
+  },
   "title": [
     "Mānasa Deha Geha"
   ],
@@ -86,8 +90,5 @@
         "Bhakti Vinod says, “Please listen, O Kān! O Rādhānāth! You are my life and soul.”"
       ]
     }
-  ],
-  "attributes": {
-    "page": "94"
-  }
+  ]
 }

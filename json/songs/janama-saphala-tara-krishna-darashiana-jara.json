@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 100,
+    "first_line": "janama saphala tā’ra"
+  },
   "title": [
     "Rūpa-Kīrtan"
   ],
@@ -88,8 +92,5 @@
         "I eternally desire to take the form of a bee, easily attain a place at Kṛṣṇa’s lotus feet, and sing His glories. I will never serve anyone else."
       ]
     }
-  ],
-  "attributes": {
-    "page": "100"
-  }
+  ]
 }

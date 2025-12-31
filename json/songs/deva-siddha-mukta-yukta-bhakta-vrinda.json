@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 136,
+    "first_line": "deva-siddha-mukta-yukta-bhakta"
+  },
   "title": [
     "Śrī Śrī Prema-dhāma-deva Stotram"
   ],
@@ -99,8 +103,5 @@
         "prema-dhāma-devam eva naumi gaura-sundaram"
       ]
     }
-  ],
-  "attributes": {
-    "page": "136"
-  }
+  ]
 }

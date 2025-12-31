@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 32,
+    "first_line": "jīva jāga, jīva jāga"
+  },
   "title": [
     "Aruṇodoya-kīrtan"
   ],
@@ -96,8 +100,5 @@
         "Bhakti Vinod falls at the Lord’s feet, prays for the Hari-nām mahāmantra, and takes it."
       ]
     }
-  ],
-  "attributes": {
-    "page": "32"
-  }
+  ]
 }

@@ -1,6 +1,8 @@
 {
   "meta": {
-    "no-author": 1
+    "page": 38,
+    "no-author": 1,
+    "first_line": "vande ’haṁ śrī-guroḥ śrī-yuta-pada-kamalaṁ"
   },
   "title": [
     "Vandanā"
@@ -204,8 +206,5 @@
         "hare rāma hare rāma rāma rāma hare hare"
       ]
     }
-  ],
-  "attributes": {
-    "page": "38"
-  }
+  ]
 }
