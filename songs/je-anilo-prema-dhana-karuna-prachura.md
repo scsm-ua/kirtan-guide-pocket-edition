@@ -1,3 +1,8 @@
+---
+page: 153
+first_line: ye ānila prema-dhana
+---
+
 # Viraha-gīti
 
 ### by Śrīla Narottam Dās Ṭhākur
@@ -37,5 +42,3 @@ I will break my head on a rock, I will enter into fire—where shall I go to rea
 
 Not finding the association of Śrī Gaurāṅga, who performed His Pastimes with all these associates, Narottam Dās weeps.
 
-
-> page = 153

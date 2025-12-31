@@ -1,10 +1,15 @@
+---
+page: 128
+first_line: prabhu kahe—kahilāṅ ei mahāmantra
+---
+
 # Hare Kṛṣṇa mahāmantra
 
 ### by Śrīla Vṛndāvan Dās Ṭhākur
 
     hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare
     hare rāma hare rāma rāma rāma hare hare
-    
+
     prabhu kahe—kahilāṅ ei mahāmantra
     ihā japa’ giyā sabe kariyā nirbandha
     ihā haite sarva-siddhi ha-ibe sabāra
@@ -18,5 +23,3 @@
 
 Śrīman Mahāprabhu declared, “I have told you all this mahāmantra. Chant it earnestly. By doing so, you will attain all perfection. Chant always. There are no rules in that regard. Whether you are resting, eating, or awake—day and night think of Kṛṣṇa and chant His Name aloud. If you have any affection for Me, do not speak of anything other than Kṛṣṇa.”
 
-
-> page = 128

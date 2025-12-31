@@ -1,3 +1,8 @@
+---
+page: 19
+first_line: bhaja bhakata-vatsala
+---
+
 # Śrī Bhoga Ārati Gīti
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -130,5 +135,3 @@ Lalitā Devī and her friends then receive Rādhā’s remnants and joyfully sin
 
 Serve Govinda, serve Gopāl. Serve Giridhārī, Gopīnāth, Nanda Dulāl. Serve Govinda, serve Gopāl. All glory to Nanda’s son! All glory to Śachī’s son! All glory to golden Gopāl!
 
-
-> page = 19

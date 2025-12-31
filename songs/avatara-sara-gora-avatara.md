@@ -1,3 +1,8 @@
+---
+page: 81
+first_line: avatāra sāra
+---
+
 # Avatāra Sāra
 
 ### by Śrīla Lochan Dās Ṭhākur
@@ -47,5 +52,3 @@ O mind, considering it a necklace, you wore death’s attendant serpent around y
 
 You served your family (mundane ends), forgot Śrī Gaurāṅga, and never listened to the sādhus’ words. O mind, you wasted both this life and your next life. You depraved yourself.
 
-
-> page = 81

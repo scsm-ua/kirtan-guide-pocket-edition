@@ -1,3 +1,8 @@
+---
+page: 144
+first_line: śrī-sanātanānu-rūpa-jīva-sampradāyakaṁ
+---
+
 # Śrī Śrī Prema-dhāma-deva Stotram
 
 ## Thursday
@@ -11,14 +16,12 @@
     nīla-śaila-nātha-pīṭha-naija-kārya-saukaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
-
 #### 52
 
     tyāga-bāhya-bhoga-buddhi-tīvra-daṇḍa-nindanaṁ
     rāya-śuddha-kṛṣṇa-kāma-sevanābhi-nandanam
     rāya-rāga-sevanokta-bhāgya-koṭi-duṣkaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
-
 
 #### 53
 
@@ -27,14 +30,12 @@
     śrī gadādharārpitādhikāra-mantra-mādhuraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
-
 #### 54
 
     śrī-svarūpa-rāya-saṅga-gāmbhirāntya-līlanaṁ
     dvādaśābda-vahni-garbha-vipralambha-śīlanam
     rādhikādhirūḍha-bhāva-kānti-kṛṣṇa-kuñjaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
-
 
 #### 55
 
@@ -43,14 +44,12 @@
     svapnavat-samādhi-dṛṣṭa-divya-varṇanāturaṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
-
 #### 56
 
     sātvikādi-bhāva-chihna-deha-divya-sauṣṭhavaṁ
     kūrma-dharma-bhinna-sandhi-gātra-puṣpa-pelavam
     hrasva-dīrgha-padma-gandha-rakta-pīta-pāṇḍuraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
-
 
 #### 57
 
@@ -59,14 +58,12 @@
     varṇitāli-kūla-kṛṣṇa-keli-śaila-kandaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
-
 #### 58
 
     indu-sindhu-nṛtya-dīpta-kṛṣṇa-keli-mohitaṁ
     ūrmi-śīrṣa-supta-deha-vāta-raṅga-vāhitam
     yāmunāli-kṛṣṇa-keli-magna-saukhya-sāgaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
-
 
 #### 59
 
@@ -75,7 +72,6 @@
     śrānta-bhakta-chakratīrtha-hṛṣṭa-dṛṣṭi-gocharaṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
-
 #### 60
 
     ārta-bhakta-kaṇṭha-kṛṣṇa-nāma-karṇa-hṛdgataṁ
@@ -83,5 +79,3 @@
     ardha-bāhya-bhāva-kṛṣṇa-keli-varṇanāturaṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
-
-> page = 144

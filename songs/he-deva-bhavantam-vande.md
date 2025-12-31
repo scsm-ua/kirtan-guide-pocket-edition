@@ -1,3 +1,8 @@
+---
+page: 99
+first_line: he deva bhavantaṁ vande
+---
+
 # He deva bhavantaṁ vande
 
 ### by Śrīla Rūpa Goswāmī Prabhu
@@ -37,5 +42,3 @@ O Mādhava! Although I don’t have even a sesame seed of devotion to You, Your 
 
 O eternal Lord, may the bee of my heart steadily reside eternally at Your lotus feet, where there is an abundance of the most wonderful honey—which surpasses the nectar of immortality—and thus attain the ultimate sweetness.
 
-
-> page = 99

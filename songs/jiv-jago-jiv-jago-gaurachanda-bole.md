@@ -1,3 +1,8 @@
+---
+page: 32
+first_line: jīva jāga, jīva jāga
+---
+
 # Aruṇodoya-kīrtan
 
 ## Part 2
@@ -60,5 +65,3 @@
 
 Bhakti Vinod falls at the Lord’s feet, prays for the Hari-nām mahāmantra, and takes it.
 
-
-> page = 32

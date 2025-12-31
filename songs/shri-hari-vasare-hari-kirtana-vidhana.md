@@ -1,3 +1,8 @@
+---
+page: 158
+first_line: śrī hari-vāsare hari-kīrtana-vidhāna
+---
+
 # Śrī Harivāsar Gīti
 
 ### by Śrīla Vṛndāvan Dās Ṭhākur
@@ -96,5 +101,3 @@ He whose Name Śukadev and Nārad take as they wander about, whose glories the t
 
 Embracing Śrī Kṛṣṇa Chaitanya and Nityānandachā̐d as his life and soul, Vṛndāvan Dās sings the glories of Their lotus feet.
 
-
-> page = 158

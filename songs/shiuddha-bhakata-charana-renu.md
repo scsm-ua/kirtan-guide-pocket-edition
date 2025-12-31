@@ -1,3 +1,8 @@
+---
+page: 161
+first_line: śuddha-bhakata-charaṇa-reṇu
+---
+
 # Śuddha-bhakata
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -74,5 +79,3 @@ Seeing Tulasī Devī soothes my soul, for I know she pleases Mādhava. Honouring
 
 Whatever Bhakti Vinod obtains that is favourable to Kṛṣṇa’s service, he accepts every day with the greatest joy.
 
-
-> page = 161

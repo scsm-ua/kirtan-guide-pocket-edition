@@ -1,3 +1,8 @@
+---
+page: 65
+first_line: nitāi-pada-kamala
+---
+
 # Manaḥ-Śikṣā
 
 ### by Śrīla Narottam Dās Ṭhākur
@@ -38,5 +43,3 @@ Maddened with pride, forgetting Nitāi’s feet, I accept untruth as truth. When
 
 Nitāi’s feet are truth, and His servants are eternal. Always aspire for Nitāi’s feet. Narottam is very sad: “O Nitāi! Make me happy. Keep me beside your reddish feet.”
 
-
-> page = 65

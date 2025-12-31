@@ -1,3 +1,8 @@
+---
+page: 113
+first_line: ‘gaurāṅga’ balite habe
+---
+
 # ‘Gaurāṅga’ bolite habe
 
 ### by Śrīla Narottam Dās Ṭhākur
@@ -37,5 +42,3 @@ When will I long for Śrī Rūpa and Śrī Raghunāth’s feet? When will I unde
 
 “May my aspiration be at the feet of Śrī Rūpa and Śrī pkobe-hobe-bolo-se-dina-amarRaghunāth.” Narottam Dās always prays in this way.
 
-
-> page = 113

@@ -1,3 +1,8 @@
+---
+page: 16
+first_line: yaśomatī-nandana
+---
+
 # Śrī Nām-kīrtan
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -37,5 +42,3 @@ He is the guardian of Vraja’s residents, the destroyer of the demons, and the 
 
 He is a spy on the Yamunā’s banks and the stealer of the gopīs’ garments. He is the relisher of the rāsa-līlā and the embodiment of mercy. He is Śrī Rādhā’s beloved, Vṛndāvan’s great dancer, and Bhakti Vinod’s shelter.
 
-
-> page = 16

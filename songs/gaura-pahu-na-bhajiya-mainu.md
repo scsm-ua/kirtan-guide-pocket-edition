@@ -1,3 +1,8 @@
+---
+page: 83
+first_line: gaurā pahu̐ nā
+---
+
 # Gaurā Pahu̐
 
 ### by Śrīla Narottam Dās Ṭhākur
@@ -37,5 +42,3 @@ I have constantly drunk the terrible poison of mundanity and never become immers
 
 Why am I alive? For the sake of what happiness? Why has Narottam Dās not already died?
 
-
-> page = 83

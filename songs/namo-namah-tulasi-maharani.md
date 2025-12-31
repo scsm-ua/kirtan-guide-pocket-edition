@@ -1,3 +1,8 @@
+---
+page: 36
+first_line: namo namaḥ tulasī mahārāṇī
+---
+
 # Śrī Tulasī-parikramā-gīti
 
 ### by Śrīla Chandraśekhar Āchārya
@@ -62,5 +67,3 @@ The Lord does not accept even one of fifty-six grain offerings or thirty-six veg
 
 O Tulasī Mahārāṇī, Chandraśekhar sings your glories. Give him the gift of devotion.
 
-
-> page = 36

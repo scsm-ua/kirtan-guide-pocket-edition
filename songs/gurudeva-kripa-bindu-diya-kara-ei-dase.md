@@ -1,3 +1,8 @@
+---
+page: 29
+first_line: gurudeva! kṛpā-bindu diyā
+---
+
 # Gurudeva
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -39,5 +44,3 @@ When will this soul attain such mercy and become fulfilled? O master! I am devoi
 
 When I examine myself for qualifications, I find none. Your mercy is everything. If you are not merciful to me, then, crying, I will no longer maintain my life.
 
-
-> page = 29

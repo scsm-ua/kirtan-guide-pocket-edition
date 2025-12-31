@@ -1,3 +1,8 @@
+---
+page: 70
+first_line: ‘dayāl nitāi chaitanya’ ba’le
+---
+
 # Dayāl Nitāi Chaitanya
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -32,5 +37,3 @@ Then my offences will go away and I will attain the wealth of divine love. (In t
 
 Then easily the life of the soul will be successful. (Without attachment to Kṛṣṇa, a soul’s life is simply false.) Then, at the end of life, a soul will see Śrī Śrī Rādhā-Śyām in Vṛndāvan (if Śrī Gaura bestows His mercy).
 
-
-> page = 70

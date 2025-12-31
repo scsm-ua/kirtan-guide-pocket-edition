@@ -1,3 +1,8 @@
+---
+page: 165
+first_line: hari haraye namaḥ kṛṣṇa yādavāya namaḥ
+---
+
 # Nām-saṅkīrtan
 
 ### by Śrīla Narottam Dās Ṭhākur
@@ -43,6 +48,7 @@ I offer my obeisance to these six goswāmīs. By doing so, all obstacles are des
     tā̐-sabāra pada-reṇu mora pañcha-grāsa
 
 I am a servant of these six goswāmīs. Their foot dust is my
+
 five forms of sustenance.
 
 #### 7
@@ -73,5 +79,3 @@ Joyfully chant, ‘Hari!’, and worship Vṛndāvan, meditating on the feet of 
 
 Aspiring for the lotus feet of Śrī Guru and the Vaiṣṇavas, Narottam Dās chants the Holy Name.
 
-
-> page = 165

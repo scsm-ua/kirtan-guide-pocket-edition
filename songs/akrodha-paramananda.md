@@ -1,3 +1,8 @@
+---
+page: 67
+first_line: akrodha paramānanda
+---
+
 # Akrodha paramānanda
 
 ### by Śrīla Lochan Dās Ṭhākur
@@ -42,5 +47,3 @@ Lochan Dās says of one who has not developed attachment to this Avatār, “Suc
 
 “They simply came and went. Those who did not serve Nitāi’s feet simply came and went (took birth and died uselessly).”
 
-
-> page = 67

@@ -1,3 +1,8 @@
+---
+page: 149
+first_line: kṛṣṇa haite chatur-mukha
+---
+
 # Śrī Guru-paramparā
 
 ### Verses 1-9 composed by Śrīla Saraswati Ṭhākur
@@ -108,5 +113,3 @@ His dear disciple, who constantly endeavours to fulfil his desires, is Śrīla B
 
 All the Gurus in this succession are associates of Śrī Gaurāṅga. I pray for their remnants.
 
-
-> page = 149

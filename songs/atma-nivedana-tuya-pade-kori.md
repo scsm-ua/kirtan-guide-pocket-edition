@@ -1,3 +1,8 @@
+---
+page: 111
+first_line: ātma-nivedana
+---
+
 # Ātma-nivedana
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -56,5 +61,3 @@ Feeling the happiness of Your service in my heart, I have completely forgotten a
 
 Diving in the joy of Your service, Bhakti Vinod resides within Your home and performs all his endeavours in accordance with Your will.
 
-
-> page = 111

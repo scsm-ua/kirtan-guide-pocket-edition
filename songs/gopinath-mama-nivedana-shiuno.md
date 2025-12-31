@@ -1,3 +1,8 @@
+---
+page: 87
+first_line: gopīnāth, mama nivedana śuna
+---
+
 # Nivedana
 
 ## Part 1
@@ -68,5 +73,3 @@ O Gopīnāth, You are an ocean of mercy. You came into this world and performed 
 
 O Gopīnāth, am I the greatest sinner of all? All the demons reached Your feet, and only this Bhakti Vinod remained sitting here.
 
-
-> page = 87

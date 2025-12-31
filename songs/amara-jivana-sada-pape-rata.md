@@ -1,3 +1,8 @@
+---
+page: 105
+first_line: āmāra jīvana
+---
+
 # Āmāra jīvana
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -56,5 +61,3 @@ Such a sinner as I is shunned by devotees, and is a constant offender. I am devo
 
 Now aged, I am devoid of any means of deliverance and thus destitute and distressed. Bhakti Vinod submits this remorseful confession at the Lord’s feet.
 
-
-> page = 105

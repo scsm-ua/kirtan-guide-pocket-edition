@@ -1,3 +1,8 @@
+---
+page: 55
+first_line: śrī kṛṣṇa chaitanya prabhu dayā kara more
+---
+
 # Sāvaraṇa-Śrī-Gaura-pāda-padme Prārthanā
 
 ### by Śrīla Narottam Dās Ṭhākur
@@ -56,5 +61,3 @@ O Śrīnivās Āchārya Prabhu! Be merciful! Narottam Dās prays for the associa
 
 O Śrīla Prabhupād, manifestation of Śrī Gaura! Be merciful. This fallen servant prays for the mercy of your associates.
 
-
-> page = 55

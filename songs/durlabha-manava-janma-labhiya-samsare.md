@@ -1,3 +1,8 @@
+---
+page: 119
+first_line: durlabha mānava-janma
+---
+
 # Durlabha mānava-janma
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -93,5 +98,3 @@ This is the fate of my body, its effects, material wealth, and all of my compani
 
 So, intelligent souls! Abandon Māyā’s illusion and search for the eternal truth: devotion to Kṛṣṇa.
 
-
-> page = 119

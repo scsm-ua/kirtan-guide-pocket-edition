@@ -1,3 +1,8 @@
+---
+page: 117
+first_line: kabe gaura-vane
+---
+
 # Siddhi-Lālasā
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -38,5 +43,3 @@ When will I bow down before the residents of Śrī Gaurasundar’s abode and beg
 
 When will I see no difference between the residents of Gauḍa and the residents of Vraja, and become a resident of Vraja? When will the true nature of the Lord’s abode manifest before my eyes? When will I become Śrī Rādhā’s maidservant?
 
-
-> page = 117

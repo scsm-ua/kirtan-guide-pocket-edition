@@ -1,3 +1,8 @@
+---
+page: 66
+first_line: nitāi guṇamaṇi āmāra
+---
+
 # Nitāi guṇamaṇi āmāra
 
 ### by Śrīla Lochan Dās Ṭhākur
@@ -37,5 +42,3 @@ Nitāi cut a canal into the sealed ocean of mercy and a flood of nectarean divin
 
 Lochan Dās says, “Anyone who did not serve Nitāi knowingly committed suicide.”
 
-
-> page = 66

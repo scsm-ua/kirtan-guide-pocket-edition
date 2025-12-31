@@ -1,3 +1,8 @@
+---
+page: 94
+first_line: mānasa, deha, geha
+---
+
 # Mānasa Deha Geha
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -58,5 +63,3 @@ Father, mother, lover, son, Lord, Guru, and husband—You are everything to me.
 
 Bhakti Vinod says, “Please listen, O Kān! O Rādhānāth! You are my life and soul.”
 
-
-> page = 94

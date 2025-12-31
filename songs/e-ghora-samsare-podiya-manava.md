@@ -1,3 +1,8 @@
+---
+page: 121
+first_line: e ghora-saṁsāre
+---
+
 # E ghora saṁsāre
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -29,5 +34,3 @@ A fallen soul burns in the ever-increasing fire of mundanity. Avoiding offences,
 
 Kāli Dās says, “Anyone who has taken shelter of Nitāi and Chaitanya’s lotus feet is my shelter, in life and in death.”
 
-
-> page = 121

@@ -1,3 +1,8 @@
+---
+page: 114
+first_line: kabe ha’be bala se-dina āmāra
+---
+
 # Kabe ha’be bala
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -73,5 +78,3 @@ When will I buy and festively scatter the Name’s rasa? When will I become into
 
 When will compassion for all souls arise within me? When will Bhakti Vinod forget his own happiness and travel about respectfully preaching Śrī Gaurasundar’s teachings with a most humble heart?
 
-
-> page = 114

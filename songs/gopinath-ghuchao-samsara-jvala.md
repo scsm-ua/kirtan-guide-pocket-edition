@@ -1,3 +1,8 @@
+---
+page: 89
+first_line: gopīnāth, ghuchāo saṁsāra-jvālā
+---
+
 # Nivedana
 
 ## Part 2
@@ -68,5 +73,3 @@ O Gopīnāth, I am very foolish. I have never understood what is good for me. Th
 
 O Gopīnāth, You are the wisest person. Always try to uplift this fool and do not consider this servant an outsider.
 
-
-> page = 89

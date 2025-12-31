@@ -1,3 +1,8 @@
+---
+page: 58
+first_line: (ohe) vaiṣṇava ṭhākura
+---
+
 # Śrī Vaiṣṇava-mahimā-gīti
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -46,5 +51,3 @@ Kṛṣṇa is yours. You can give Kṛṣṇa. You have that power. I am very p
 
 I run after you. I run after you in hope of attaining the wealth of Kṛṣṇa. If you desire to give Kṛṣṇa, you can give Him. If you desire to give, you can give. Kṛṣṇa is the wealth of your heart. You have the power to give Kṛṣṇa. If only you desire to give Kṛṣṇa, you can give Him.
 
-
-> page = 58

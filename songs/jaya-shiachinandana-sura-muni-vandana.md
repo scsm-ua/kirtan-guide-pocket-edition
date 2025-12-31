@@ -1,3 +1,8 @@
+---
+page: 17
+first_line: jaya śachī-nandana
+---
+
 # Śrī Śachīnandana-vandanā
 
 ### by Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
@@ -38,5 +43,3 @@ All glory to Sītā Ṭhākurāṇī and Advaita Āchārya! All glory to Mālin�
 
 All glory to Murāri Gupta, Mukunda Datta, and Puṇḍarīk Vidyānidhi! All glory to all the associates of Śrī Śachī Nandan! I offer my obeisance at their feet. By their mercy upon this fallen soul, I serve Śrīla Prabhupād and his associates.
 
-
-> page = 17

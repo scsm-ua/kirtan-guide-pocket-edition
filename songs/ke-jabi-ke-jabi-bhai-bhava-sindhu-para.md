@@ -1,3 +1,8 @@
+---
+page: 81
+first_line: ke yābi ke yābi bhāi
+---
+
 # Ke yābi ke yābi
 
 ### by Śrīla Lochan Dās Ṭhākur
@@ -30,5 +35,3 @@ The Lord’s Names are the ferryboat, Śrī Guru is the captain, and the outstre
 
 All souls have thus been delivered by the winds of divine love. Only Lochan Dās has fallen and remained behind, as a result of his sins.
 
-
-> page = 81

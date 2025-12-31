@@ -1,3 +1,8 @@
+---
+page: 11
+first_line: jaya ‘guru-mahārāja’
+---
+
 # Śrī Guru Ārati Stuti
 
 ### by Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
@@ -114,5 +119,3 @@ The shelter of your feet, which are cooling like millions of moons, is our hope 
 
 O manifestation of the principle of inconceivable difference and nondifference (union in separation)! This humble servant chants your glories and worships you with joy.
 
-
-> page = 11

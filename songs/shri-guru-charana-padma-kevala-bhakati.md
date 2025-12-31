@@ -1,3 +1,8 @@
+---
+page: 54
+first_line: śrī guru charaṇa-padma
+---
+
 # Śrī Guru-vaiṣṇava Māhātmya-gīti
 
 ### by Śrīla Narottam Dās Ṭhākur
@@ -47,5 +52,3 @@ He who gave me the gift of eyes is my lord, birth after birth. He manifested div
 
 I have taken shelter. I have taken shelter at your lotus feet, where there is no fear. Please be merciful to me. O Śrī Gurudev, saviour of the fallen, please be merciful to me. Understanding that I am lowly and fallen, be merciful to me. All glory to you, Śrī Gurudev!
 
-
-> page = 54

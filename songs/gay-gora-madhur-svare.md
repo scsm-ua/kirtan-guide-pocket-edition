@@ -1,3 +1,8 @@
+---
+page: 75
+first_line: gāya gorā madhur svare
+---
+
 # Śrī Nāma
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -38,5 +43,3 @@ Bound in Māyā’s net, you work in vain. Now, while you are still conscious, c
 
 Your life is ending, but you have not served Hṛṣīkeś. Bhakti Vinod advises: once relish His Name’s nectar.
 
-
-> page = 75

@@ -1,3 +1,8 @@
+---
+page: 122
+first_line: haribolo haribolo haribolo bhāi re
+---
+
 # Sri Nama Kirtan Song 3
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -45,5 +50,3 @@ O brothers! Chant “Hari!” and throw ashes in the face of material desire. (O
 
 Even without desiring them, I obtain all ends (dharma, artha, kāma, and mokṣa) by the Name’s power. (Oh! Abandon all endeavours for insignificant ends). Bhakti Vinod says, “I proceed, removing the obstacles to the Lord’s Name. (Oh! Avoid the obstacles to the Lord’s Name.)”
 
-
-> page = 122

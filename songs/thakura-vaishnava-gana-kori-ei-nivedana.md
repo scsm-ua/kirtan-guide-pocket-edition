@@ -1,3 +1,8 @@
+---
+page: 59
+first_line: ṭhākura vaiṣṇava-gaṇa
+---
+
 # Ṭhākura-vaiṣṇava-gaṇa
 
 ### by Śrīla Narottam Dās Ṭhākur
@@ -38,5 +43,3 @@ Lust, anger, greed, illusion, pride, and ego all pull me in their own directions
 
 I have never accepted the proper conception. My mind has been immersed in illusion, and I have never aspired for your feet. Narottām Dās says, “Seeing and hearing about my situation, I am stricken with fear. Please rescue me and keep me by your side.”
 
-
-> page = 59

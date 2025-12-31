@@ -1,3 +1,8 @@
+---
+page: 76
+first_line: vimala hema jini
+---
+
 # Vimala hema jini
 
 ### by Śrīla Vṛndāvan Dās Ṭhākur
@@ -38,5 +43,3 @@ Lord Gorāchā̐d cannot move! He cannot speak! He simply stammers. Rapt in ecst
 
 At this joyful, fortunate time, neglectfully I did not serve Gorāchā̐d or aspire for His feet. Vṛndāvan Dās sings the glories of Śrī Kṛṣṇa Chaitanyachandra and Ṭhākur Śrī Nityānanda.
 
-
-> page = 76

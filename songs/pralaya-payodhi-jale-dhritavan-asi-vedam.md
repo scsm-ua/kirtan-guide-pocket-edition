@@ -1,3 +1,8 @@
+---
+page: 154
+first_line: pralaya-payodhi-jale
+---
+
 # Śrī Daśāvatār Stotram
 
 ### by Śrīla Jayadev Goswāmī
@@ -100,5 +105,3 @@ O Hari! O Keśava! O Lord of the universe! You have assumed ten different forms!
 
 I offer my obeisance unto Śrī Kṛṣṇa, who assumes ten forms and rescues the Vedas, upholds Mandara Mountain, uplifts the earth, rips apart demons, deceives Bali Mahārāj, kills the kṣatriyas, conquers Rāvaṇ, carries a plough, shows compassion, and annihilates the wicked.
 
-
-> page = 154

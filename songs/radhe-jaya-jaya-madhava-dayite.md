@@ -1,3 +1,8 @@
+---
+page: 163
+first_line: rādhe jaya jaya mādhava-dayite
+---
+
 # After parikramā
 
 ### by Śrīla Rūpa Goswāmī Prabhu
@@ -37,5 +42,3 @@ O new moon who has arisen from the ocean of King Vṛṣabhānu! O friend of Lal
 
 Be merciful to me, O You who are filled with mercy! O She whose glory is sung by Sanaka and Sanātan!
 
-
-> page = 163

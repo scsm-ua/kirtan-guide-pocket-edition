@@ -1,3 +1,8 @@
+---
+page: 143
+first_line: prema-mugdha-nṛtya-kīrtanākulāriṭāntikaṁ
+---
+
 # Śrī Śrī Prema-dhāma-deva Stotram
 
 ## Wednesday
@@ -11,14 +16,12 @@
     prema-kuṇḍa-rādhikākhya-śāstra-vandanādaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
-
 #### 42
 
     tintiḍī-talastha-yāmunormmi-bhāvanāplutaṁ
     nirjanaika-rādhikātma-bhāva-vaibhavāvṛtam
     śyāma-rādhikāpta-gaura-tattva-bhittikākaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
-
 
 #### 43
 
@@ -27,14 +30,12 @@
     prema-vaśya-kṛṣṇa-bhāva-bhakta-hṛch-chamatkaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
-
 #### 44
 
     śrī-prayāga-dhāma-rūpa-rāga-bhakti-sañcharaṁ
     śrī-sanātanādi-kāśi-bhakti-śikṣaṇādaram
     vaiṣṇavānurodha-bheda-nirvviśeṣa-pañjaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
-
 
 #### 45
 
@@ -43,14 +44,12 @@
     vyāsa-nāradādi-datta-vedadhī-dhurandharaṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
-
 #### 46
 
     brahma-sūtra-bhāṣya-kṛṣṇa-nāradopadeśakaṁ
     śloka-turya-bhāṣaṇānta-kṛṣṇa-samprakāśakam
     śabda-vartanānta-hetu-nāma-jīva-nistaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
-
 
 #### 47
 
@@ -59,14 +58,12 @@
     divya-kṛṣṇa-vigrahādi-gauṇa-buddhi-dhikkaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
-
 #### 48
 
     brahma-pāramātmya-lakṣaṇādvayaika-vāchanaṁ
     śrī-vraja-svasiddha-nanda-līla-nanda-nandanam
     śrī-rasa-svarūpa-rāsa-līla-gopa-sundaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
-
 
 #### 49
 
@@ -75,7 +72,6 @@
     prema-sevanaika-mātra-sādhya-kṛṣṇa-tatparaṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
-
 #### 50
 
     ātma-rāma-vāchanaika-ṣaṣṭikārtha-darśitaṁ
@@ -83,5 +79,3 @@
     sarva-sarva-yukta-tat-tad-artha-bhūridākaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
-
-> page = 143

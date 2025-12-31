@@ -1,3 +1,8 @@
+---
+page: 110
+first_line: sarvasva tomāra, charaṇe sa̐piyā
+---
+
 # Sarvasva tomāra
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -47,5 +52,3 @@ While sitting up or lying down, I will always think of Your feet. I will come to
 
 I will never think about my own maintenance; I will always remain within the shelter of loving attachment to You. Bhakti Vinod embraces You as his maintainer.
 
-
-> page = 110

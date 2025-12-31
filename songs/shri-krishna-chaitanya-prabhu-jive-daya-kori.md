@@ -1,3 +1,8 @@
+---
+page: 48
+first_line: śrī-kṛṣṇa-chaitanya prabhu jīve dayā kari’
+---
+
 # Auspicious Invocation to Śaraṇāgati
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -51,5 +56,3 @@ Bhakti Vinod places a straw between his teeth and falls before Śrīla Rūpa Gos
 
 Crying and crying, he prays, “I am so lowly! Please elevate me by teaching me surrender.”
 
-
-> page = 48

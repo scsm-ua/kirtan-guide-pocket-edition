@@ -1,3 +1,8 @@
+---
+page: 45
+first_line: saṁsāra-dāvānala-līḍha-loka
+---
+
 # Śrī Śrī Gurvāṣṭakam
 
 ### by Śrīla Viśvanāth Chakravartī Ṭhākur
@@ -83,5 +88,3 @@ I offer my obeisance unto the lotus feet of Śrī Guru, praising and meditating 
 
 One who very carefully recites aloud this Śrī Gurvaṣṭakam during the brāhma-muhūrta (the ninety-six minute period before sunrise) attains direct service to the Lord of Vṛndāvan at the end of life.
 
-
-> page = 45
