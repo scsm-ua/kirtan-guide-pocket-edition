@@ -1,3 +1,8 @@
+---
+page: 34
+first_line: kabe śrī chaitanya more karibena dayā
+---
+
 # Dainya Prārthanā Gīti
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -51,5 +56,3 @@ Satisfied by the Vaiṣṇava’s prayer, Kṛṣṇa will be merciful to this s
 
 Bhakti Vinod prays at the feet of the Vaiṣṇavas: “Mercifully take this lowly soul with you.”
 
-
-> page = 34

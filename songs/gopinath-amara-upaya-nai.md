@@ -1,3 +1,8 @@
+---
+page: 91
+first_line: gopīnāth, āmāra upāya nāi
+---
+
 # Nivedana
 
 ## Part 3
@@ -77,5 +82,3 @@ O Gopīnāth, a noose has been tied around my neck. Taking up the sword of Your 
 
 O Govinda! O Gopīnāth! This time be merciful. I have been an offender for many births. Million of births have passed. Give me the shade of Your feet. I have surrendered at Your feet. Give me the service of Your feet. O Govinda! O Gopīnāth!
 
-
-> page = 91

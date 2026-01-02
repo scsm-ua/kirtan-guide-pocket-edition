@@ -1,3 +1,8 @@
+---
+page: 107
+first_line: hari hari! viphale janama goṅāinu
+---
+
 # Iṣṭa-deve Vijñapti
 
 ### by Śrīla Narottam Dās Ṭhākur
@@ -38,5 +43,3 @@ Vrajendra Nandan became Śachī Suta and Balarām became Nitāi. They delivered 
 
 O Rādhā! O Lord Kṛṣṇa! Be merciful to me this time. Narottam Dās says, “Please don’t push me away from Your reddish feet. Without You, who do I have?”
 
-
-> page = 107

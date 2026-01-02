@@ -1,3 +1,8 @@
+---
+page: 77
+first_line: emana gaurāṅga vine nāhi āra
+---
+
 # Emana Gaurāṅga vine nāhi āra
 
 ### by Śrīla Premānanda Dās
@@ -97,5 +102,3 @@ Premānanda says, “I never developed attachment to Lord Gaurāṅga.”
 
 I never developed attachment. I never developed attachment to this most merciful Lord. This most merciful Lord has come, but I have never developed attachment to Him. Oh! Chant, “Gaurahari!”
 
-
-> page = 77

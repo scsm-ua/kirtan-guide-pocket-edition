@@ -1,3 +1,8 @@
+---
+page: 124
+first_line: hari-nāma mahāmantra sarva-mantra-sāra
+---
+
 # Daśa-vidha Nāmāparādha
 
 ### by Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
@@ -97,5 +102,3 @@ Those who remain devoid of love for Kṛṣṇa’s Name even after hearing His 
 
 Great souls who avoid these ten offences and engage in Hari-nām-saṅkīrtan attain unprecedented Śrī Kṛṣṇa-prema. The Name Himself plays within their hearts eternally.
 
-
-> page = 124

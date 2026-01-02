@@ -1,3 +1,8 @@
+---
+page: 128
+first_line: cheto-darpaṇa-mārjanaṁ
+---
+
 # Śrī Śikṣāṣṭakam
 
 ### by Śrī Chaitanya Mahāprabhu
@@ -57,5 +62,3 @@ That debauchee may tightly embrace this maidservant, or He may leave me and brea
 
 [Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/siksastakam-sanskrit-verses)
 
-
-> page = 128

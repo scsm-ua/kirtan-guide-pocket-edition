@@ -1,3 +1,8 @@
+---
+page: 23
+first_line: (kibā) jaya jaya gorāchā̐der
+---
+
 # Śrī Gaura Ārati
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -80,5 +85,3 @@ The radiance of the Lord’s face surpasses that of millions of moons. The garla
 
 This time please give me your grace. O Śrīla Bhakti Vinod Ṭhākur, O Śrīla Saraswatī Ṭhākur, O Gurudev, saviour of the fallen, O Gaurahari, along with your associates, this time please give me your grace.
 
-
-> page = 23

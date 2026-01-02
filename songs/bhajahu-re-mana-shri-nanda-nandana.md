@@ -1,3 +1,8 @@
+---
+page: 96
+first_line: bhajahu̐ re mana
+---
+
 # Bhajahu̐ Re Mana
 
 ### by Śrīla Govinda Dās Kavirāj
@@ -39,5 +44,3 @@ What is there in having wealth, youth, sons, and family? Life is tottering like 
 
 Govinda Dās desires to engage in the nine practices of devotion: hearing about, glorifying, remembering, praying to, attending to, serving, worshipping, befriending, and surrendering to the Lord.
 
-
-> page = 96

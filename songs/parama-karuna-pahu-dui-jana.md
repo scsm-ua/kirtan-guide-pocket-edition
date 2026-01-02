@@ -1,3 +1,8 @@
+---
+page: 68
+first_line: parama karuṇa
+---
+
 # Śrī Śrī Gaura-Nityānander Dayā
 
 ### by Śrīla Lochan Dās Ṭhākur
@@ -58,5 +63,3 @@ Hearing of Their glory, birds and animals cry and stones melt.
 
 “Fallen and immersed in saṁsāra, I never aspired for Their feet. Now Yamarāj subjects me to my karma.” So says Lochan Dās.
 
-
-> page = 68

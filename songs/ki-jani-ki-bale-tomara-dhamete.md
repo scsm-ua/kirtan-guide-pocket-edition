@@ -1,3 +1,8 @@
+---
+page: 108
+first_line: ki jāni ki bale
+---
+
 # Goptṛtve Varaṇa
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -56,5 +61,3 @@ Everything is Yours. I am only a servant. Certainly You will deliver me. I have 
 
 Weeping, Bhakti Vinod takes shelter at Your feet. Forgiving his offences and giving him a taste for the Name, kindly maintain him.
 
-
-> page = 108

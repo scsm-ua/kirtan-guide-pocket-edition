@@ -1,5 +1,7 @@
 ---
+page: 93
 author: Śrīla Bhakti Vinod Ṭhākur
+first_line: hari he dayāla mora
 ---
 
 # Dainya O Prapatti
@@ -39,5 +41,3 @@ You are the world’s auspiciousness and master. O Lord! If You neglect me, what
 
 I have understood that in this world there is no one but You to deliver this servant.
 
-
-> page = 93

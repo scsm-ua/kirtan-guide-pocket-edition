@@ -1,3 +1,8 @@
+---
+page: 49
+first_line: bhaja re bhaja re āmār
+---
+
 # Bhajan-gīti
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -46,5 +51,3 @@ Remember Rūpa Goswāmī, Sanātan Goswāmī, Jīva Goswāmī, Raghunāth Bhaṭ
 
 Remember Kavi Karṇapur, Śivānanda Sen, and their family. Always remember them! Always remember Śivānanda Sen and his family. Remember the sādhus who follow Śrī Rūpa and the joy they feel in their service. If you want to reside in Vraja, then remember the sādhus who follow Śrī Rūpa.
 
-
-> page = 49

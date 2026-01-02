@@ -1,3 +1,8 @@
+---
+page: 73
+first_line: emana durmati
+---
+
 # Dainyātmikā
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -58,5 +63,3 @@ Seeing me so fallen and being merciful, he came to me and said, “O humble soul
 
 O Lord, hearing this message, Bhakti Vinod has come to the soles of Your feet. Crying, he tells his story.
 
-
-> page = 73

@@ -1,3 +1,8 @@
+---
+page: 98
+first_line: mayūra-mukuṭa-pītāmbara-dhārī
+---
+
 # Mayūra mukuṭa
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -30,5 +35,3 @@ All glory to the flute player, the lifter of Govardhan Hill, Kṛṣṇa, Murār
 
 All glory to the flute player, the lifter of Govardhan Hill, the gopīs’ beloved, He who plays the vaṁśī flute!
 
-
-> page = 98

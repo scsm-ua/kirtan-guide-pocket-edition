@@ -1,3 +1,8 @@
+---
+page: 102
+first_line: jaya rādhe, jaya kṛṣṇa
+---
+
 # Śrī Vraja-dhāma-mahimāmṛta
 
 ### by Śrīla Kṛṣṇadās Kavirāj Goswāmī
@@ -79,5 +84,3 @@ All glory to madhura-rasa, the best of all rasas, which is manifest in Vraja as 
 
 Remembering the lotus feet of Śrī Jāhnavā Devī, the humble Kṛṣṇa Dās chants the Holy Name.
 
-
-> page = 102

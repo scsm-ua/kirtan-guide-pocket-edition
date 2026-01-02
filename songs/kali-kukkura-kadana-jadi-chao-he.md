@@ -1,3 +1,8 @@
+---
+page: 15
+first_line: kali-kukkura-kadana yadi chāo he
+---
+
 # Maṅgal Ārati
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -46,5 +51,3 @@ He is the purifier of Sārvabhauma Bhaṭṭāchārya and the deliverer of Mahā
 
 He is absorbed in Vraja’s rasas. He is the dispeller of misconception, lust, and deceit. He is the maintainer of the pure devotees and the dispeller of dry knowledge. He is the eradicator of pseudo-devotion and the reservoir of all pleasure.
 
-
-> page = 15

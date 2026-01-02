@@ -1,3 +1,8 @@
+---
+page: 97
+first_line: (jaya) rādhā-mādhava
+---
+
 # Jaya Rādhā-Mādhava
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -9,5 +14,3 @@
 
 All glory to Śrī Rādhā’s Mādhava, who sports in the groves of Vraja! All glory to the gopīs’ beloved, the lifter of Govardhan Hill! All glory to Yaśodā’s darling son, the delight of Vraja’s residents! All glory to He who plays in the forests along the banks of the Yamunā!
 
-
-> page = 97

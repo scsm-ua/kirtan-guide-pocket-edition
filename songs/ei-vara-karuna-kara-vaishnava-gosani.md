@@ -1,3 +1,8 @@
+---
+page: 63
+first_line: ei-bāra karuṇā kara
+---
+
 # Vaiṣṇava Vijñāpti
 
 ### by Śrīla Narottam Dās Ṭhākur
@@ -44,5 +49,3 @@ Govinda always resides in your heart, and He says, “My devotees are My heart.�
 
 In every birth I aspire for the dust of your feet. Be merciful to Narottam, considering him your own.
 
-
-> page = 63

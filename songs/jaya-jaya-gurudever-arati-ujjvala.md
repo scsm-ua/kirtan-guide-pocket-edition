@@ -1,3 +1,8 @@
+---
+page: 8
+first_line: jaya jaya gurudever
+---
+
 # Śrī Guru Ārati
 
 ### by Śrīpād B. A. Paramahaṁsa Mahārāj
@@ -114,5 +119,3 @@ Throughout the play of the past, present, and future, this servant prays for you
 
 Be merciful, O lord, manifestation of Śrī Gaurāṅga! This fallen servant always worships you.
 
-
-> page = 8

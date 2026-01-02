@@ -1,3 +1,8 @@
+---
+page: 51
+first_line: vibhāvarī śeṣa
+---
+
 # Vibhāvarī Śeṣa
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -74,5 +79,3 @@ He is ever-increasing joy personified and the ultimate reservoir of divine love.
 
 He plays in the River Yamunā’s waters and is the moon above the chakora bird of the heart. O mind, remember my words: always chant Kṛṣṇa’s glories and nectarean Names.
 
-
-> page = 51

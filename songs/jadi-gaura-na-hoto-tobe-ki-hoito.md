@@ -1,3 +1,8 @@
+---
+page: 84
+first_line: yadi, gaura nā ha’ta
+---
+
 # Yadi Gaura nā ho’to
 
 ### by Śrīla Vāsudev Ghoṣ
@@ -43,5 +48,3 @@ Sing Gaurāṅga’s glories again and again, keeping your heart simple. In the 
 
 I chant ‘Gaurāṅga’, but have not melted (with love). How have I maintained this body? How has Providence made Vāsu a stone rather than a heart?
 
-
-> page = 84

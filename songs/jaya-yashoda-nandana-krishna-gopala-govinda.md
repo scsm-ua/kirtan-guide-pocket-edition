@@ -1,3 +1,8 @@
+---
+page: 97
+first_line: (jaya) yaśodā-nandana kṛṣṇa
+---
+
 # Jaya Yaśodā-Nandana Kṛṣṇa
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -16,5 +21,3 @@ All glory to Yaśodā’s darling son, Kṛṣṇa, who protects and pleases the
 
 All glory to the infallible Lord, the moon of Vṛndāvan, who pleases Śrī Rādhā! All glory to the dark Flute Player, the ecstasy of the gopīs!
 
-
-> page = 97

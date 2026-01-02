@@ -1,3 +1,8 @@
+---
+page: 132
+first_line: sujanārvuda-rādhita-pāda-yugaṁ
+---
+
 # Śrī Śrī Prabhupāda-padma Stavakaḥ
 
 ### by Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
@@ -101,5 +106,3 @@ He is the best of the paramahaṁsas and the guardian of the supreme wealth (K�
 
 He is Śrīmatī Rādhārāṇī’s beloved servant. I hold on my head the dust of his tremendous, wondrously purifying feet and eternally offer my obeisance to them.
 
-
-> page = 132

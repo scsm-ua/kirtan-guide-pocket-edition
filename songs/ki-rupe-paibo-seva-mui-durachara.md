@@ -1,3 +1,8 @@
+---
+page: 61
+first_line: ki-rūpe pāiba sevā
+---
+
 # Ki-rūpe pāiba sevā
 
 ### by Śrīla Narottam Dās Ṭhākur
@@ -37,5 +42,3 @@ It is impossible to overcome and leave behind Māyā without the sādhus’ merc
 
 O master who overlooks my faults! O saviour of the fallen! This time deliver Narottam Dās.
 
-
-> page = 61

@@ -1,3 +1,8 @@
+---
+page: 62
+first_line: ṭhākura-vaiṣṇava-pada
+---
+
 # Ṭhākura-vaiṣṇava-pada
 
 ### by Śrīla Narottam Dās Ṭhākur
@@ -38,5 +43,3 @@ The purifying power of water at places of pilgrimage has been described in the P
 
 My mind is always joyful in the company of the Vaiṣṇavas, where discussion of Kṛṣṇa is always happening. Humble Narottam cries, “My heart has no patience. Why has my condition changed? (Why have I lost the Vaiṣṇavas’ association?)”
 
-
-> page = 62

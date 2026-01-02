@@ -1,3 +1,8 @@
+---
+page: 30
+first_line: udila aruṇa pūrava-bhāge
+---
+
 # Aruṇodoya-kīrtan
 
 ## Part 1
@@ -76,5 +81,3 @@ Drink the nectar of Kṛṣṇa’s Name and soothe Bhakti Vinod’s soul. There
 
 Desiring to bless all souls, the Lord’s sweet Name comes to this world and arises like the Sun within the sky of the heart to dispel the darkness of ignorance.
 
-
-> page = 30

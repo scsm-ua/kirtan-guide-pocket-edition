@@ -1,3 +1,8 @@
+---
+page: 139
+first_line: dhvasta-sārvvabhauma-vāda-navya-tarka-śāṅkaraṁ
+---
+
 # Śrī Śrī Prema-dhāma-deva Stotram
 
 ## Monday
@@ -11,14 +16,12 @@
     darśitārtha-sarva-śāstra-kṛṣṇa-bhakti-mandiraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
-
 #### 22
 
     kṛṣṇa-kṛṣṇa-kṛṣṇa-kṛṣṇa-kṛṣṇa-nāma-kīrtanaṁ
     rāma-rāma-gāna-ramya divya-chhanda-nartanam
     yatra-tatra-kṛṣṇa-nāma-dāna-loka-nistaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
-
 
 #### 23
 
@@ -27,14 +30,12 @@
     pārakīya-kānta-kṛṣṇa-bhāva-sevanākaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
-
 #### 24
 
     dāsya-sakhya-vātsya-kānta-sevanottarottaraṁ
     śreṣṭha-pārakīya-radhikāṅghri-bhakti-sundaram
     śrī-vraja-svasiddha-divya-kāma-kṛṣṇa-tatparaṁ
     prema-dhāma-devam eva naumi gaura-sundaram
-
 
 #### 25
 
@@ -43,14 +44,12 @@
     tantra-mukta-vāmya-rāga-sarva-sevanottaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
-
 #### 26
 
     ātma-navya-tattva-divya-rāya-bhāgya-darśitaṁ
     śyāma-gopa-rādhikāpta-kokta-gupta-cheṣṭitam
     mūrchchhitāṅghri-rāmarāya-bodhitātma-kiṅkaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
-
 
 #### 27
 
@@ -59,14 +58,12 @@
     kāla-kṛṣṇa-dāsa-mukta-bhaṭṭathāri-piñjaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
-
 #### 28
 
     raṅganātha-bhaṭṭa-bhakti-tuṣṭa-bhaṅgi-bhāṣaṇaṁ
     lakṣmya-gamya-kṛṣṇa-rāsa-gopikaika-poṣaṇam
     lakṣmya-bhīṣṭa-kṛṣṇa-śīrṣa-sādhya-sādhanākaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
-
 
 #### 29
 
@@ -75,7 +72,6 @@
     śrī-pratāparudra-rāja-śīrṣa-sevya-mandiraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
-
 #### 30
 
     śrī-rathāgra-bhakta-gīta-divya-nartanādbhutaṁ
@@ -83,5 +79,3 @@
     guṇḍichāgamādi-tattva-rūpa-kāvya-sañcharaṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
-
-> page = 139

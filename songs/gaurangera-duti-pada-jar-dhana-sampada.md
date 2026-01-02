@@ -1,3 +1,8 @@
+---
+page: 72
+first_line: gaurāṅgera duṭi pada
+---
+
 # Sāvaraṇa-Śrī-Gaura-mahimā
 
 ### by Śrīla Narottam Dās Ṭhākur
@@ -38,5 +43,3 @@ One who considers Śrī Gaurāṅga’s associates to be eternally liberated rea
 
 One who swims in the waves of the nectarean ocean of divine love for Śrī Gaura is an intimate associate of Śrī Śrī Rādhā-Mādhava. Whether he lives in a house or in the forest, Narottam Dās begs for the association of one who calls, ‘O Gaurāṅga!’
 
-
-> page = 72

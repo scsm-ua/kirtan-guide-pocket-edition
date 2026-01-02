@@ -1,5 +1,7 @@
 ---
+page: 38
 no-author: 1
+first_line: vande ’haṁ śrī-guroḥ śrī-yuta-pada-kamalaṁ
 ---
 
 # Vandanā
@@ -124,7 +126,6 @@ All glory to the lotus feet of Śrī Guru, Śrī Gaurasundar, Śrī Śrī Gāndh
     śrī-kṛṣṇa-chaitanya prabhu nityānanda
     śrī-advaita gadādhara śrīvāsādi gaura-bhakta-vṛnda
 
-    hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare 
+    hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare
     hare rāma hare rāma rāma rāma hare hare
 
-> page = 38

@@ -1,3 +1,8 @@
+---
+page: 100
+first_line: janama saphala tā’ra
+---
+
 # Rūpa-Kīrtan
 
 ### by Śrīla Bhakti Vinod Ṭhākur
@@ -63,5 +68,3 @@ What a crown on His head! What a flute in His hand! What a threefold pose! Necta
 
 I eternally desire to take the form of a bee, easily attain a place at Kṛṣṇa’s lotus feet, and sing His glories. I will never serve anyone else.
 
-
-> page = 100
