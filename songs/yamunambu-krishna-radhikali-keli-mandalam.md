@@ -2,6 +2,7 @@
 page: 146
 first_line: yāmunāmbu-kṛṣṇa-rādhikāli-keli-maṇḍalam
 author: Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
+translation: 'no'
 ---
 
 # Śrī Śrī Prema-dhāma-deva Stotram
