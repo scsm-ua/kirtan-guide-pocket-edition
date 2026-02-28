@@ -1,6 +1,7 @@
 ---
 page: 11
 first_line: jaya ‘guru-mahārāja’
+author: Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
 ---
 
 # Śrī Guru Ārati Stuti

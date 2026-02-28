@@ -1,6 +1,7 @@
 ---
 page: 117
 first_line: kabe gaura-vane
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Siddhi-Lālasā

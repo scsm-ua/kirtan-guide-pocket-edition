@@ -1,6 +1,7 @@
 ---
 page: 143
 first_line: prema-mugdha-nṛtya-kīrtanākulāriṭāntikaṁ
+author: Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 ---
 
 # Śrī Śrī Prema-dhāma-deva Stotram

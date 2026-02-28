@@ -1,6 +1,7 @@
 ---
 page: 77
 first_line: emana gaurāṅga vine nāhi āra
+author: Śrīla Premānanda Dās
 ---
 
 # Emana Gaurāṅga vine nāhi āra

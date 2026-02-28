@@ -1,6 +1,7 @@
 ---
 page: 75
 first_line: gāya gorā madhur svare
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Śrī Nāma

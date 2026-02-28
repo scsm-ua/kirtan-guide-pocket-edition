@@ -1,6 +1,7 @@
 ---
 page: 49
 first_line: bhaja re bhaja re āmār
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Bhajan-gīti

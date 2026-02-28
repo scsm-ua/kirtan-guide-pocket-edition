@@ -1,6 +1,7 @@
 ---
 page: 84
 first_line: yadi, gaura nā ha’ta
+author: Śrīla Vāsudev Ghoṣ
 ---
 
 # Yadi Gaura nā ho’to

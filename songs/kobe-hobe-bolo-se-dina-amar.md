@@ -1,6 +1,7 @@
 ---
 page: 114
 first_line: kabe ha’be bala se-dina āmāra
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Kabe ha’be bala

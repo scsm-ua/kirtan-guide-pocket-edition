@@ -1,6 +1,7 @@
 ---
 page: 121
 first_line: e ghora-saṁsāre
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # E ghora saṁsāre

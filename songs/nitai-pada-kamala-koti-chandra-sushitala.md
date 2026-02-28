@@ -1,6 +1,7 @@
 ---
 page: 65
 first_line: nitāi-pada-kamala
+author: Śrīla Narottam Dās Ṭhākur
 ---
 
 # Manaḥ-Śikṣā

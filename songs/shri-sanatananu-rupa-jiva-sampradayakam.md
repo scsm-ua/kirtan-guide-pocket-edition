@@ -1,6 +1,7 @@
 ---
 page: 144
 first_line: śrī-sanātanānu-rūpa-jīva-sampradāyakaṁ
+author: Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 ---
 
 # Śrī Śrī Prema-dhāma-deva Stotram

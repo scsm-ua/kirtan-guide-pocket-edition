@@ -1,6 +1,7 @@
 ---
 page: 72
 first_line: gaurāṅgera duṭi pada
+author: Śrīla Narottam Dās Ṭhākur
 ---
 
 # Sāvaraṇa-Śrī-Gaura-mahimā

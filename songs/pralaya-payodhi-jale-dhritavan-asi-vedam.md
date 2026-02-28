@@ -1,6 +1,7 @@
 ---
 page: 154
 first_line: pralaya-payodhi-jale
+author: Śrīla Jayadev Goswāmī
 ---
 
 # Śrī Daśāvatār Stotram

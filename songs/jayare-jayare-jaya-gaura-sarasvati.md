@@ -1,6 +1,7 @@
 ---
 page: 25
 first_line: jayare jayare jaya gaura-sarasvatī
+author: Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 ---
 
 # Śrī Sāraswat Ārati

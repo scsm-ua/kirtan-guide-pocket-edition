@@ -1,6 +1,7 @@
 ---
 page: 73
 first_line: emana durmati
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Dainyātmikā

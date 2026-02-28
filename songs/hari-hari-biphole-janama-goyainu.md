@@ -1,6 +1,7 @@
 ---
 page: 107
 first_line: hari hari! viphale janama goṅāinu
+author: Śrīla Narottam Dās Ṭhākur
 ---
 
 # Iṣṭa-deve Vijñapti

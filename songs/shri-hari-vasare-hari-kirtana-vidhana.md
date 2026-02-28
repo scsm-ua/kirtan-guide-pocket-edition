@@ -1,6 +1,7 @@
 ---
 page: 158
 first_line: śrī hari-vāsare hari-kīrtana-vidhāna
+author: Śrīla Vṛndāvan Dās Ṭhākur
 ---
 
 # Śrī Harivāsar Gīti

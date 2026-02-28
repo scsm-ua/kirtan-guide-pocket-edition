@@ -1,6 +1,7 @@
 ---
 page: 63
 first_line: ei-bāra karuṇā kara
+author: Śrīla Narottam Dās Ṭhākur
 ---
 
 # Vaiṣṇava Vijñāpti

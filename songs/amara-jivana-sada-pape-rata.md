@@ -1,6 +1,7 @@
 ---
 page: 105
 first_line: āmāra jīvana
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Āmāra jīvana

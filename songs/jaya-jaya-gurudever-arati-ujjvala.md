@@ -1,6 +1,7 @@
 ---
 page: 8
 first_line: jaya jaya gurudever
+author: Śrīpād B. A. Paramahaṁsa Mahārāj
 ---
 
 # Śrī Guru Ārati

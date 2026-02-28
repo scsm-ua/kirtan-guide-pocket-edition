@@ -1,6 +1,7 @@
 ---
 page: 163
 first_line: rādhe jaya jaya mādhava-dayite
+author: Śrīla Rūpa Goswāmī Prabhu
 ---
 
 # After parikramā

@@ -1,6 +1,7 @@
 ---
 page: 83
 first_line: gaurā pahu̐ nā
+author: Śrīla Narottam Dās Ṭhākur
 ---
 
 # Gaurā Pahu̐

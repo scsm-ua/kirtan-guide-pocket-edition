@@ -1,6 +1,7 @@
 ---
 page: 23
 first_line: (kibā) jaya jaya gorāchā̐der
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Śrī Gaura Ārati

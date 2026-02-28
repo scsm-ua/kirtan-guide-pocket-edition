@@ -1,6 +1,7 @@
 ---
 page: 32
 first_line: jīva jāga, jīva jāga
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Aruṇodoya-kīrtan

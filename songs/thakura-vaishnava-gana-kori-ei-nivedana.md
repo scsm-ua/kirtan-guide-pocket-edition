@@ -1,6 +1,7 @@
 ---
 page: 59
 first_line: ṭhākura vaiṣṇava-gaṇa
+author: Śrīla Narottam Dās Ṭhākur
 ---
 
 # Ṭhākura-vaiṣṇava-gaṇa

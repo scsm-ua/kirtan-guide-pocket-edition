@@ -1,6 +1,7 @@
 ---
 page: 111
 first_line: ātma-nivedana
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Ātma-nivedana

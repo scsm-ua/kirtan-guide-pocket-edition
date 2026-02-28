@@ -1,6 +1,7 @@
 ---
 page: 94
 first_line: mānasa, deha, geha
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Mānasa Deha Geha

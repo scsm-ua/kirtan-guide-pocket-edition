@@ -1,6 +1,7 @@
 ---
 page: 70
 first_line: ‘dayāl nitāi chaitanya’ ba’le
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Dayāl Nitāi Chaitanya

@@ -1,6 +1,7 @@
 ---
 page: 99
 first_line: he deva bhavantaṁ vande
+author: Śrīla Rūpa Goswāmī Prabhu
 ---
 
 # He deva bhavantaṁ vande

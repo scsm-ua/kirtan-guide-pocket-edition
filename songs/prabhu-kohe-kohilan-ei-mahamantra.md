@@ -1,6 +1,7 @@
 ---
 page: 128
 first_line: prabhu kahe—kahilāṅ ei mahāmantra
+author: Śrīla Vṛndāvan Dās Ṭhākur
 ---
 
 # Hare Kṛṣṇa mahāmantra

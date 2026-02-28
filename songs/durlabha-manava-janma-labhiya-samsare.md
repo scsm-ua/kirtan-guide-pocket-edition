@@ -1,6 +1,7 @@
 ---
 page: 119
 first_line: durlabha mānava-janma
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Durlabha mānava-janma

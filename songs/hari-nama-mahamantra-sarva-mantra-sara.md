@@ -1,6 +1,7 @@
 ---
 page: 124
 first_line: hari-nāma mahāmantra sarva-mantra-sāra
+author: Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
 ---
 
 # Daśa-vidha Nāmāparādha

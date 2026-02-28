@@ -1,6 +1,7 @@
 ---
 page: 36
 first_line: namo namaḥ tulasī mahārāṇī
+author: Śrīla Chandraśekhar Āchārya
 ---
 
 # Śrī Tulasī-parikramā-gīti

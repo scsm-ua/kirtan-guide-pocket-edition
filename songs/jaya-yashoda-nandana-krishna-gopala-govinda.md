@@ -1,6 +1,7 @@
 ---
 page: 97
 first_line: (jaya) yaśodā-nandana kṛṣṇa
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Jaya Yaśodā-Nandana Kṛṣṇa

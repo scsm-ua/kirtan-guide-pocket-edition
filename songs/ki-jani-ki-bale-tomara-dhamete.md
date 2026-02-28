@@ -1,6 +1,7 @@
 ---
 page: 108
 first_line: ki jāni ki bale
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Goptṛtve Varaṇa

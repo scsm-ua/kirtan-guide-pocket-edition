@@ -1,6 +1,7 @@
 ---
 page: 19
 first_line: bhaja bhakata-vatsala
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Śrī Bhoga Ārati Gīti

@@ -1,6 +1,7 @@
 ---
 page: 141
 first_line: prema-mugdha-rudra-rāja-śaurya-vīrya-vikramaṁ
+author: Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 ---
 
 # Śrī Śrī Prema-dhāma-deva Stotram

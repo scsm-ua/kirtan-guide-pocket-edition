@@ -1,6 +1,7 @@
 ---
 page: 81
 first_line: ke yābi ke yābi bhāi
+author: Śrīla Lochan Dās Ṭhākur
 ---
 
 # Ke yābi ke yābi

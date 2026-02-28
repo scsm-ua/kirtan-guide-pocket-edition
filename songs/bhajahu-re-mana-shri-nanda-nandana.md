@@ -1,6 +1,7 @@
 ---
 page: 96
 first_line: bhajahu̐ re mana
+author: Śrīla Govinda Dās Kavirāj
 ---
 
 # Bhajahu̐ Re Mana

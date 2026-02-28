@@ -1,6 +1,7 @@
 ---
 page: 68
 first_line: parama karuṇa
+author: Śrīla Lochan Dās Ṭhākur
 ---
 
 # Śrī Śrī Gaura-Nityānander Dayā

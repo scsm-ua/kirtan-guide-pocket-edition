@@ -1,6 +1,7 @@
 ---
 page: 15
 first_line: kali-kukkura-kadana yadi chāo he
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Maṅgal Ārati

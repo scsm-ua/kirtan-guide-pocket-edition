@@ -1,6 +1,7 @@
 ---
 page: 76
 first_line: vimala hema jini
+author: Śrīla Vṛndāvan Dās Ṭhākur
 ---
 
 # Vimala hema jini

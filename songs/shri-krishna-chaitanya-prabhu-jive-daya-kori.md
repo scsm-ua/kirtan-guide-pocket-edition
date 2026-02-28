@@ -1,6 +1,7 @@
 ---
 page: 48
 first_line: śrī-kṛṣṇa-chaitanya prabhu jīve dayā kari’
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Auspicious Invocation to Śaraṇāgati

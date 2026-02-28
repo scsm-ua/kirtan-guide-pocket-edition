@@ -1,6 +1,7 @@
 ---
 page: 81
 first_line: avatāra sāra
+author: Śrīla Lochan Dās Ṭhākur
 ---
 
 # Avatāra Sāra

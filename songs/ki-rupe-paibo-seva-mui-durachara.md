@@ -1,6 +1,7 @@
 ---
 page: 61
 first_line: ki-rūpe pāiba sevā
+author: Śrīla Narottam Dās Ṭhākur
 ---
 
 # Ki-rūpe pāiba sevā

@@ -1,6 +1,7 @@
 ---
 page: 136
 first_line: deva-siddha-mukta-yukta-bhakta
+author: Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 ---
 
 # Śrī Śrī Prema-dhāma-deva Stotram

@@ -1,6 +1,7 @@
 ---
 page: 51
 first_line: vibhāvarī śeṣa
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Vibhāvarī Śeṣa

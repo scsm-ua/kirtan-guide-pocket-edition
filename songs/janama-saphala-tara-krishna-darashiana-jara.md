@@ -1,6 +1,7 @@
 ---
 page: 100
 first_line: janama saphala tā’ra
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Rūpa-Kīrtan

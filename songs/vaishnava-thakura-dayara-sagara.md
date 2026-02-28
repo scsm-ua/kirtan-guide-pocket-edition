@@ -1,6 +1,7 @@
 ---
 page: 58
 first_line: (ohe) vaiṣṇava ṭhākura
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Śrī Vaiṣṇava-mahimā-gīti

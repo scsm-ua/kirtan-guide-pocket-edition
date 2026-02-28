@@ -1,6 +1,7 @@
 ---
 page: 54
 first_line: śrī guru charaṇa-padma
+author: Śrīla Narottam Dās Ṭhākur
 ---
 
 # Śrī Guru-vaiṣṇava Māhātmya-gīti

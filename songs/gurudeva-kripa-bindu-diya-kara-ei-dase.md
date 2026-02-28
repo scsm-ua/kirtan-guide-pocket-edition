@@ -1,6 +1,7 @@
 ---
 page: 29
 first_line: gurudeva! kṛpā-bindu diyā
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Gurudeva

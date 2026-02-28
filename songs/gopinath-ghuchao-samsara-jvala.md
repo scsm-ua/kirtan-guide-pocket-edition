@@ -1,6 +1,7 @@
 ---
 page: 89
 first_line: gopīnāth, ghuchāo saṁsāra-jvālā
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Nivedana

@@ -1,6 +1,7 @@
 ---
 page: 97
 first_line: (jaya) rādhā-mādhava
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Jaya Rādhā-Mādhava

@@ -1,6 +1,7 @@
 ---
 page: 128
 first_line: cheto-darpaṇa-mārjanaṁ
+author: Śrī Chaitanya Mahāprabhu
 ---
 
 # Śrī Śikṣāṣṭakam

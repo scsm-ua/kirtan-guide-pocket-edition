@@ -1,6 +1,7 @@
 ---
 page: 34
 first_line: kabe śrī chaitanya more karibena dayā
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Dainya Prārthanā Gīti

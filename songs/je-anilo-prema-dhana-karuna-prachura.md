@@ -1,6 +1,7 @@
 ---
 page: 153
 first_line: ye ānila prema-dhana
+author: Śrīla Narottam Dās Ṭhākur
 ---
 
 # Viraha-gīti

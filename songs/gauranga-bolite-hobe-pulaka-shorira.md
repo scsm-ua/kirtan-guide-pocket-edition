@@ -1,6 +1,7 @@
 ---
 page: 113
 first_line: ‘gaurāṅga’ balite habe
+author: Śrīla Narottam Dās Ṭhākur
 ---
 
 # ‘Gaurāṅga’ bolite habe

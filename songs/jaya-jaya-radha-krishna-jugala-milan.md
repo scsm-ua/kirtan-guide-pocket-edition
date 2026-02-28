@@ -1,6 +1,7 @@
 ---
 page: 102
 first_line: jaya rādhe, jaya kṛṣṇa
+author: Śrīla Kṛṣṇadās Kavirāj Goswāmī
 ---
 
 # Śrī Vraja-dhāma-mahimāmṛta

@@ -1,6 +1,7 @@
 ---
 page: 122
 first_line: haribolo haribolo haribolo bhāi re
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Sri Nama Kirtan Song 3

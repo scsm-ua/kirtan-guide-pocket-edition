@@ -1,6 +1,7 @@
 ---
 page: 87
 first_line: gopīnāth, mama nivedana śuna
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Nivedana

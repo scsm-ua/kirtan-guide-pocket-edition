@@ -1,6 +1,7 @@
 ---
 page: 16
 first_line: yaśomatī-nandana
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Śrī Nām-kīrtan

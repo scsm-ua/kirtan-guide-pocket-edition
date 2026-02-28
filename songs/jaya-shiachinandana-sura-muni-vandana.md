@@ -1,6 +1,7 @@
 ---
 page: 17
 first_line: jaya śachī-nandana
+author: Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 ---
 
 # Śrī Śachīnandana-vandanā

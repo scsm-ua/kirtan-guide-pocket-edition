@@ -1,6 +1,7 @@
 ---
 page: 149
 first_line: kṛṣṇa haite chatur-mukha
+author: Śrīla Saraswati Ṭhākur
 ---
 
 # Śrī Guru-paramparā

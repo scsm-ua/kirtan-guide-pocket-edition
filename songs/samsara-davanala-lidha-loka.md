@@ -1,6 +1,7 @@
 ---
 page: 45
 first_line: saṁsāra-dāvānala-līḍha-loka
+author: Śrīla Viśvanāth Chakravartī Ṭhākur
 ---
 
 # Śrī Śrī Gurvāṣṭakam

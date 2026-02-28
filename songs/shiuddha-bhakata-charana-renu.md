@@ -1,6 +1,7 @@
 ---
 page: 161
 first_line: śuddha-bhakata-charaṇa-reṇu
+author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Śuddha-bhakata
