@@ -10,7 +10,7 @@ author: Śrīla Lochan Dās Ṭhākur
 
 #### 1
 
-    parama karuṇa    pah. dui jana
+    parama karuṇa    pahu̐ dui jana
         nitāi gaurachandra
     saba avatāra-    sāra śiromaṇi
         kevala ānanda-kanda
