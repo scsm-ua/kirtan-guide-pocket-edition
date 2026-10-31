@@ -12,6 +12,7 @@
   ],
   "verses": [
     {
+      "number": "1",
       "text": [
         "cheto-darpaṇa-mārjanaṁ bhava-mahā-dāvāgni-nirvāpaṇaṁ",
         "śreyaḥ-kairava-chandrikā-vitaraṇaṁ vidyā-vadhū-jīvanam",
@@ -23,6 +24,7 @@
       ]
     },
     {
+      "number": "2",
       "text": [
         "nāmnām akāri bahudhā nija-sarva-śaktis",
         "tatrārpitā niyamitaḥ smaraṇe na kālaḥ",
@@ -34,6 +36,7 @@
       ]
     },
     {
+      "number": "3",
       "text": [
         "tṛṇād api sunīchena taror iva sahiṣṇunā",
         "amāninā mānadena kīrtanīyaḥ sadā hariḥ"
@@ -43,6 +46,7 @@
       ]
     },
     {
+      "number": "4",
       "text": [
         "na dhanaṁ na janaṁ na sundarīṁ",
         "kavitāṁ vā jagad-īśa kāmaye",
@@ -54,6 +58,7 @@
       ]
     },
     {
+      "number": "5",
       "text": [
         "ayi nanda-tanuja kiṅkaraṁ",
         "patitaṁ māṁ viṣame bhavāmbudhau",
@@ -65,6 +70,7 @@
       ]
     },
     {
+      "number": "6",
       "text": [
         "nayanaṁ galad-aśru-dhārayā",
         "vadanaṁ gadgada-ruddhayā girā",
@@ -76,6 +82,7 @@
       ]
     },
     {
+      "number": "7",
       "text": [
         "yugāyitaṁ nimeṣeṇa chakṣuṣā prāvṛṣāyitam",
         "śūnyāyitaṁ jagat sarvaṁ govinda-viraheṇa me"
@@ -85,6 +92,7 @@
       ]
     },
     {
+      "number": "8",
       "text": [
         "āśliṣya vā pāda-ratāṁ pinaṣṭu mām",
         "adarśanān marma-hatāṁ karotu vā",
@@ -94,14 +102,6 @@
       "translation": [
         "That debauchee may tightly embrace this maidservant, or He may leave me and break my heart. He may do as He likes, but He alone is the Lord of my heart."
       ]
-    }
-  ],
-  "embeds": [
-    {
-      "title": "Bhakti Lalita Devi",
-      "embed_url": "https://soundcloud.com/bhakti-lalita-devi/siksastakam-sanskrit-verses",
-      "iframe_url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbhakti-lalita-devi%2Fsiksastakam-sanskrit-verses",
-      "embed_code": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fbhakti-lalita-devi%2Fsiksastakam-sanskrit-verses\"></iframe>"
     }
   ]
 }
